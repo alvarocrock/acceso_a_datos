@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.Scanner;
 
 public class controlador {
-	
+	//controlador
 	//estado
 	ArrayList<String> lista_par;
 	ArrayList<String> lista_impar;
