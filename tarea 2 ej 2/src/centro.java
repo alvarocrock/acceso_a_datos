@@ -15,6 +15,7 @@ public class centro implements Serializable{
 	protected String Enseñanzas;
 	
 	static final String espacio="                        ";
+	static final String espacio_objeto="\n"+"\n"+"\n"+"\n"+"\n";
 	
 	//constructor
 	
