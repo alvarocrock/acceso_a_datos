@@ -5,6 +5,8 @@ public class Main {
 		controlador micontro= new controlador();
 		micontro.CargarCentros();
 		micontro.EscribirFicheroBinario();
+		micontro.LeerFicheroBinario();
+		micontro.EscribirOrdenado();
 	}
 
 }

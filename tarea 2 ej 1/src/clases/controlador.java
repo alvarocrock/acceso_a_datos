@@ -33,6 +33,11 @@ public class controlador {
 	//resto comportamientos
 	
 	//comportamiennto para cargar lista impar
+	
+	/**
+	 * comportamineto que carga la array de impares
+	 */
+	
 	public void cargar_impares() {
 	String siguientelinea="";
 	File miFichero = new File(fichero_impar);
@@ -61,6 +66,9 @@ public class controlador {
 	
 	
 	
+	/**
+	 * comportamineto que carga la array de pares
+	 */
 	//comportamiento para cargar lista par
 	public void cargar_pares() {
 		String siguientelinea="";
@@ -95,6 +103,9 @@ public class controlador {
 	
 	//comportamiento para invertir la lista par
 	
+	/**
+	 * comportamiento que invierte la array list de pares
+	 */
 	private void invertir_par() {
 		Collections.reverse(lista_par);
 	}
@@ -103,6 +114,9 @@ public class controlador {
 	
 	//comportamiento para escribir el mensaje
 	
+	/**
+	 * comportamiento que escribe el mensaje secreto
+	 */
 	public void escribir_mensaje() {
 		int index=0;
 		while (lista_par.size()>index || lista_impar.size()>index) {

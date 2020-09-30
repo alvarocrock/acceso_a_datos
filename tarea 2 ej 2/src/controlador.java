@@ -1,8 +1,12 @@
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -27,6 +31,10 @@ public class controlador {
 	}
 	
 	//resto comportamientos
+	
+	/**
+	 * comportaamiento que carga los centros a opartir del centro inicial
+	 */
 	
 	public void CargarCentros() {
 		
@@ -53,6 +61,9 @@ public class controlador {
 		
 	}
 	
+	/**
+	 * comportamiento que pasa la array a binario y lo escribe en el fichero binario
+	 */
 	public void EscribirFicheroBinario() {
 		File fichero=null;
 		FileOutputStream output=null;
@@ -88,5 +99,63 @@ public class controlador {
 		
 	}
 	
+	/**
+	 * comportamiento que deserializa el fichero binario y carga la array binaria
+	 */
 	
+	public void LeerFicheroBinario() {
+		
+		
+		
+		File archivo =null;
+		FileInputStream fichero=null;
+		ObjectInputStream ost=null;
+		try {
+			archivo= new File(destino);
+			fichero = new FileInputStream(archivo);
+			ost = new ObjectInputStream(fichero);
+			centros_bianrios = (ArrayList<centro>) ost.readObject();
+			ost.close();
+			fichero.close();
+			//System.out.println("usuarios del fichero serializado"+"\n");
+			//mostrar_deserializado();
+		} catch (IOException ex) {
+			ex.printStackTrace();
+			return;
+		} catch (ClassNotFoundException ex) {
+			ex.printStackTrace();
+			return;
+		}
+	}
+	
+	/**
+	 * comportamiento que escribe el fichero con el formato deseado
+	 */
+	public void EscribirOrdenado() {
+		FileWriter fichero = null;
+        PrintWriter pw = null;
+        try
+        {
+            fichero = new FileWriter(ordenado);
+            pw = new PrintWriter(fichero);
+
+            for (int cont = 0; cont <centros_bianrios.size();cont++) {
+            	pw.print(centros_bianrios.get(cont).imprimir_fichero());
+            	
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+           try {
+           // Nuevamente aprovechamos el finally para 
+           // asegurarnos que se cierra el fichero.
+           if (null != fichero)
+              fichero.close();
+           } catch (Exception e2) {
+              e2.printStackTrace();
+           }
+        }
+    }
+		
 }

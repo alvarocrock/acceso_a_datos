@@ -14,11 +14,14 @@ public class centro implements Serializable{
 	protected String Telefono;
 	protected String Enseñanzas;
 	
-	static final String espacio="                        ";
+	static final String espacio="\t"+"\t";
 	static final String espacio_objeto="\n"+"\n"+"\n"+"\n"+"\n";
 	
 	//constructor
-	
+	/**
+	 * constructor de centro
+	 * @param serializado
+	 */
 	public centro(String serializado) {
 		String [] Lista = serializado.split(";");
 		Codigo= Lista[0];
@@ -36,13 +39,18 @@ public class centro implements Serializable{
 	
 	//resto comportamientos
 	
+	/**
+	 * comportamiento que pasa a string para su posterior escritura
+	 * @return
+	 */
+	
 	public String imprimir_fichero() {
 		String mistring= "Codigo: "+ Codigo + espacio + "Denominación: "+ Denominacion + "\n"
 					+"Nombre: "+ Nombre + espacio+ "Dependencia: "+ Dependencia + "\n"
 					+"Domicilio: "+ Domicilio + espacio+ "Localidad: "+ Localidad + "\n"
 					+"Municipio: "+ Municipio + espacio+ "Provincia: "+ Provincia + "\n"
 					+"Cod_Postal: "+ Cod_Post + espacio+ "Teléfono: "+ Telefono + "\n"
-					+"Enseñanzas: "+ Enseñanzas +"\n";
+					+"Enseñanzas: "+ Enseñanzas +"\n"+ espacio_objeto;
 		return mistring;
 	}
 
