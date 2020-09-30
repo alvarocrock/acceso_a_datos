@@ -1,0 +1,3289 @@
+Codigo: 4000110		Denominación: Instituto de Educación Secundaria
+Nombre: Abdera		Dependencia: Público
+Domicilio: C/ Marisma  6		Localidad: Adra
+Municipio: Adra		Provincia: Almería
+Cod_Postal: 4770		Teléfono: 950400711
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 4000134		Denominación: Instituto de Educación Secundaria
+Nombre: Gaviota		Dependencia: Público
+Domicilio: C/ Estero  4		Localidad: Adra
+Municipio: Adra		Provincia: Almería
+Cod_Postal: 4770		Teléfono: 671530641
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 4700260		Denominación: Instituto de Educación Secundaria
+Nombre: Aguadulce		Dependencia: Público
+Domicilio: C/ Alhambra  11		Localidad: Aguadulce
+Municipio: Roquetas de Mar		Provincia: Almería
+Cod_Postal: 4720		Teléfono: 950156742
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 4005284		Denominación: Instituto de Educación Secundaria
+Nombre: Martín García Ramos		Dependencia: Público
+Domicilio: Ctra. de la Estación  8		Localidad: Albox
+Municipio: Albox		Provincia: Almería
+Cod_Postal: 4800		Teléfono: 671569693
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 4004620		Denominación: Instituto de Educación Secundaria
+Nombre: Al-Ándalus		Dependencia: Público
+Domicilio: Paseo de la Caridad  125. Finca Santa Isabel		Localidad: Almería
+Municipio: Almería		Provincia: Almería
+Cod_Postal: 4008		Teléfono: 950156936
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 4005958		Denominación: Instituto de Educación Secundaria
+Nombre: Albaida		Dependencia: Público
+Domicilio: Ctra. de Níjar  s/n. Bda. Los Molinos		Localidad: Almería
+Municipio: Almería		Provincia: Almería
+Cod_Postal: 4009		Teléfono: 950156290
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 4001163		Denominación: Instituto de Educación Secundaria
+Nombre: Alhadra		Dependencia: Público
+Domicilio: C/ de los Colegios  7		Localidad: Almería
+Municipio: Almería		Provincia: Almería
+Cod_Postal: 4009		Teléfono: 950156930
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 4000699		Denominación: Instituto de Educación Secundaria
+Nombre: Alhamilla		Dependencia: Público
+Domicilio: Avda. García Lorca  130		Localidad: Almería
+Municipio: Almería		Provincia: Almería
+Cod_Postal: 4005		Teléfono: 950156100
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 4001151		Denominación: Instituto de Educación Secundaria
+Nombre: Celia Viñas		Dependencia: Público
+Domicilio: C/ Javier Sanz  15		Localidad: Almería
+Municipio: Almería		Provincia: Almería
+Cod_Postal: 4004		Teléfono: 950156151
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 4004814		Denominación: Instituto de Educación Secundaria
+Nombre: El Argar		Dependencia: Público
+Domicilio: Paseo de la Caridad  125		Localidad: Almería
+Municipio: Almería		Provincia: Almería
+Cod_Postal: 4008		Teléfono: 950156189
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 4700326		Denominación: Instituto de Educación Secundaria
+Nombre: Galileo		Dependencia: Público
+Domicilio: Avda. del Mar  8		Localidad: Almería
+Municipio: Almería		Provincia: Almería
+Cod_Postal: 4007		Teléfono: 671530946
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 4001187		Denominación: Instituto de Educación Secundaria
+Nombre: Los Ángeles		Dependencia: Público
+Domicilio: C/ Maestría  2		Localidad: Almería
+Municipio: Almería		Provincia: Almería
+Cod_Postal: 4008		Teléfono: 671530970
+Enseñanzas: SEC-BAC-CFGM-CFGS-ADU
+
+
+
+
+
+Codigo: 4002052		Denominación: Instituto de Educación Secundaria
+Nombre: Jaroso		Dependencia: Público
+Domicilio: Ctra. Nacional - 332  nº 25. Apdo. de correos 109		Localidad: Cuevas del Almanzora
+Municipio: Cuevas del Almanzora		Provincia: Almería
+Cod_Postal: 4610		Teléfono: 950451705
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 4700272		Denominación: Instituto de Educación Secundaria
+Nombre: Fuente Nueva		Dependencia: Público
+Domicilio: Avda. Príncipes de España  115		Localidad: El Ejido
+Municipio: El Ejido		Provincia: Almería
+Cod_Postal: 4700		Teléfono: 950579927
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 4004826		Denominación: Instituto de Educación Secundaria
+Nombre: Murgi		Dependencia: Público
+Domicilio: Avda. Príncipes de España  17		Localidad: El Ejido
+Municipio: El Ejido		Provincia: Almería
+Cod_Postal: 4700		Teléfono: 950579920
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 4005363		Denominación: Instituto de Educación Secundaria
+Nombre: Al-Bujaira		Dependencia: Público
+Domicilio: Avda. Guillermo Reyna  37		Localidad: Huércal-Overa
+Municipio: Huércal-Overa		Provincia: Almería
+Cod_Postal: 4600		Teléfono: 950451920
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 4002714		Denominación: Instituto de Educación Secundaria
+Nombre: Cura Valera		Dependencia: Público
+Domicilio: Avda. Guillermo Reyna  35		Localidad: Huércal-Overa
+Municipio: Huércal-Overa		Provincia: Almería
+Cod_Postal: 4600		Teléfono: 950451905
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 4700107		Denominación: Instituto de Educación Secundaria
+Nombre: Sol de Portocarrero		Dependencia: Público
+Domicilio: Ctra. de Níjar  Km 7		Localidad: La Cañada de San Urbano
+Municipio: Almería		Provincia: Almería
+Cod_Postal: 4120		Teléfono: 950156950
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 4003135		Denominación: Instituto de Educación Secundaria
+Nombre: Juan Rubio Ortiz		Dependencia: Público
+Domicilio: Avda. de Andalucía  10		Localidad: Macael
+Municipio: Macael		Provincia: Almería
+Cod_Postal: 4867		Teléfono: 950639570
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 4700144		Denominación: Instituto de Educación Secundaria
+Nombre: La Puebla		Dependencia: Público
+Domicilio: Plaza Platón  5		Localidad: Puebla de Vícar
+Municipio: Vícar		Provincia: Almería
+Cod_Postal: 4738		Teléfono: 950156726
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 4700016		Denominación: Instituto de Educación Secundaria
+Nombre: Turaniana		Dependencia: Público
+Domicilio: Avda. de los Estudiantes  86		Localidad: Roquetas de Mar
+Municipio: Roquetas de Mar		Provincia: Almería
+Cod_Postal: 4740		Teléfono: 950156721
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 4700685		Denominación: Instituto de Educación Secundaria
+Nombre: Santa María del Águila		Dependencia: Público
+Domicilio: C/ Lisboa  s/n		Localidad: Santa María del Águila
+Municipio: El Ejido		Provincia: Almería
+Cod_Postal: 4710		Teléfono: 950156876
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 4700351		Denominación: Instituto de Educación Secundaria
+Nombre: Alto Almanzora		Dependencia: Público
+Domicilio: C/ Huertas de la Polaca  14		Localidad: Tíjola
+Municipio: Tíjola		Provincia: Almería
+Cod_Postal: 4880		Teléfono: 600167942
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 4700508		Denominación: Instituto de Educación Secundaria
+Nombre: José Marín		Dependencia: Público
+Domicilio: C/ Dolores R. Sopeña  1		Localidad: Vélez-Rubio
+Municipio: Vélez-Rubio		Provincia: Almería
+Cod_Postal: 4820		Teléfono: 950410034
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 4004437		Denominación: Instituto de Educación Secundaria
+Nombre: Alyanub		Dependencia: Público
+Domicilio: C/ Mayor  58		Localidad: Vera
+Municipio: Vera		Provincia: Almería
+Cod_Postal: 4620		Teléfono: 950451962
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11700342		Denominación: Instituto de Educación Secundaria
+Nombre: El Getares		Dependencia: Público
+Domicilio: Ctra. Getares  s/n. Urb. Villa Rosa		Localidad: Algeciras
+Municipio: Algeciras		Provincia: Cádiz
+Cod_Postal: 11207		Teléfono: 956670823
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11000368		Denominación: Instituto de Educación Secundaria
+Nombre: Isla Verde		Dependencia: Público
+Domicilio: Ctra. de Cádiz-Málaga  s/n		Localidad: Algeciras
+Municipio: Algeciras		Provincia: Cádiz
+Cod_Postal: 11203		Teléfono: 956660970
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11000371		Denominación: Instituto de Educación Secundaria
+Nombre: Kursaal		Dependencia: Público
+Domicilio: Avda. Virgen de Europa  4		Localidad: Algeciras
+Municipio: Algeciras		Provincia: Cádiz
+Cod_Postal: 11201		Teléfono: 956670761
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11008446		Denominación: Instituto de Educación Secundaria
+Nombre: Saladillo		Dependencia: Público
+Domicilio: C/ Duque de Rivas  s/n		Localidad: Algeciras
+Municipio: Algeciras		Provincia: Cádiz
+Cod_Postal: 11207		Teléfono: 956670813
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11008495		Denominación: Instituto de Educación Secundaria
+Nombre: Torre Almirante		Dependencia: Público
+Domicilio: Polígono del Rosario  s/n		Localidad: Algeciras
+Municipio: Algeciras		Provincia: Cádiz
+Cod_Postal: 11205		Teléfono: 956655262
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11000381		Denominación: Instituto de Educación Secundaria
+Nombre: Ventura Morón		Dependencia: Público
+Domicilio: Plaza Joaquín Ibáñez  3		Localidad: Algeciras
+Municipio: Algeciras		Provincia: Cádiz
+Cod_Postal: 11203		Teléfono: 956663200
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11700937		Denominación: Instituto de Educación Secundaria
+Nombre: Guadalpeña		Dependencia: Público
+Domicilio: C/ Francia  s/n		Localidad: Arcos de la Frontera
+Municipio: Arcos de la Frontera		Provincia: Cádiz
+Cod_Postal: 11630		Teléfono: 956709993
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11000824		Denominación: Instituto de Educación Secundaria
+Nombre: Trafalgar		Dependencia: Público
+Domicilio: C/ Madrid  4		Localidad: Barbate
+Municipio: Barbate		Provincia: Cádiz
+Cod_Postal: 11160		Teléfono: 956459579
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11700755		Denominación: Instituto de Educación Secundaria
+Nombre: El Convento		Dependencia: Público
+Domicilio: Plaza de las Monjas  5		Localidad: Bornos
+Municipio: Bornos		Provincia: Cádiz
+Cod_Postal: 11640		Teléfono: 956709827
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 11001762		Denominación: Instituto de Educación Secundaria
+Nombre: Columela		Dependencia: Público
+Domicilio: C/ Barcelona  2		Localidad: Cádiz
+Municipio: Cádiz		Provincia: Cádiz
+Cod_Postal: 11006		Teléfono: 956243233
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 11004556		Denominación: Instituto de Educación Secundaria
+Nombre: Cornelio Balbo		Dependencia: Público
+Domicilio: C/ Nuevo Mundo  s/n		Localidad: Cádiz
+Municipio: Cádiz		Provincia: Cádiz
+Cod_Postal: 11004		Teléfono: 956243216
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 11700299		Denominación: Instituto de Educación Secundaria
+Nombre: Drago		Dependencia: Público
+Domicilio: C/ Marianista Cubillo  15		Localidad: Cádiz
+Municipio: Cádiz		Provincia: Cádiz
+Cod_Postal: 11008		Teléfono: 956243686
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 11008501		Denominación: Instituto de Educación Secundaria
+Nombre: Fernando Aguilar Quignon		Dependencia: Público
+Domicilio: C/ Conil de la Frontera  3		Localidad: Cádiz
+Municipio: Cádiz		Provincia: Cádiz
+Cod_Postal: 11010		Teléfono: 956243308
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11001828		Denominación: Instituto de Educación Secundaria
+Nombre: Rafael Alberti		Dependencia: Público
+Domicilio: C/ Amiel  s/n		Localidad: Cádiz
+Municipio: Cádiz		Provincia: Cádiz
+Cod_Postal: 11012		Teléfono: 956243317
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 11700688		Denominación: Instituto de Educación Secundaria
+Nombre: San Severiano		Dependencia: Público
+Domicilio: Avda. San Severiano  8		Localidad: Cádiz
+Municipio: Cádiz		Provincia: Cádiz
+Cod_Postal: 11007		Teléfono: 956243270
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11700354		Denominación: Instituto de Educación Secundaria
+Nombre: Ciudad de Hércules		Dependencia: Público
+Domicilio: C/ Cuba  2		Localidad: Chiclana de la Frontera
+Municipio: Chiclana de la Frontera		Provincia: Cádiz
+Cod_Postal: 11130		Teléfono: 956243754
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 11007582		Denominación: Instituto de Educación Secundaria
+Nombre: Pablo Ruiz Picasso		Dependencia: Público
+Domicilio: Avda. de la Diputación  s/n		Localidad: Chiclana de la Frontera
+Municipio: Chiclana de la Frontera		Provincia: Cádiz
+Cod_Postal: 11130		Teléfono: 956243747
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 11700445		Denominación: Instituto de Educación Secundaria
+Nombre: José Luis Tejada Peluffo		Dependencia: Público
+Domicilio: Avda. Guardia Civil  1		Localidad: El Puerto de Santa María
+Municipio: El Puerto de Santa María		Provincia: Cádiz
+Cod_Postal: 11500		Teléfono: 956243707
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11004428		Denominación: Instituto de Educación Secundaria
+Nombre: Mar de Cádiz		Dependencia: Público
+Domicilio: Avda. Rafael Alberti  s/n		Localidad: El Puerto de Santa María
+Municipio: El Puerto de Santa María		Provincia: Cádiz
+Cod_Postal: 11500		Teléfono: 956243128
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11004416		Denominación: Instituto de Educación Secundaria
+Nombre: Pedro Muñoz Seca		Dependencia: Público
+Domicilio: Avda. de la Estación  s/n		Localidad: El Puerto de Santa María
+Municipio: El Puerto de Santa María		Provincia: Cádiz
+Cod_Postal: 11500		Teléfono: 956243945
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 11700603		Denominación: Instituto de Educación Secundaria
+Nombre: Pintor Juan Lara		Dependencia: Público
+Domicilio: Cmo. del Águila  6		Localidad: El Puerto de Santa María
+Municipio: El Puerto de Santa María		Provincia: Cádiz
+Cod_Postal: 11500		Teléfono: 956243502
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11008525		Denominación: Instituto de Educación Secundaria
+Nombre: Santo Domingo		Dependencia: Público
+Domicilio: C/ Santo Domingo  29		Localidad: El Puerto de Santa María
+Municipio: El Puerto de Santa María		Provincia: Cádiz
+Cod_Postal: 11500		Teléfono: 956243970
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11700160		Denominación: Instituto de Educación Secundaria
+Nombre: Almunia		Dependencia: Público
+Domicilio: C/ Málaga  s/n. Bda. San Enrique		Localidad: Jerez de la Frontera
+Municipio: Jerez de la Frontera		Provincia: Cádiz
+Cod_Postal: 11405		Teléfono: 956709924
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11008513		Denominación: Instituto de Educación Secundaria
+Nombre: Andrés Benítez		Dependencia: Público
+Domicilio: C/ Doctor Fléming  s/n. Polígono de San Benito		Localidad: Jerez de la Frontera
+Municipio: Jerez de la Frontera		Provincia: Cádiz
+Cod_Postal: 11407		Teléfono: 856811510
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11007387		Denominación: Instituto de Educación Secundaria
+Nombre: Asta Regia		Dependencia: Público
+Domicilio: Avda. Moreno Mendoza  4		Localidad: Jerez de la Frontera
+Municipio: Jerez de la Frontera		Provincia: Cádiz
+Cod_Postal: 11408		Teléfono: 856586113
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11007922		Denominación: Instituto de Educación Secundaria
+Nombre: Francisco Romero Vargas		Dependencia: Público
+Domicilio: Avda. Moreno Mendoza  s/n		Localidad: Jerez de la Frontera
+Municipio: Jerez de la Frontera		Provincia: Cádiz
+Cod_Postal: 11408		Teléfono: 956709917
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11003230		Denominación: Instituto de Educación Secundaria
+Nombre: La Granja		Dependencia: Público
+Domicilio: Avda. de Europa  s/n		Localidad: Jerez de la Frontera
+Municipio: Jerez de la Frontera		Provincia: Cádiz
+Cod_Postal: 11405		Teléfono: 856811933
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11700172		Denominación: Instituto de Educación Secundaria
+Nombre: Santa Isabel de Hungría		Dependencia: Público
+Domicilio: C/ La Merced  40		Localidad: Jerez de la Frontera
+Municipio: Jerez de la Frontera		Provincia: Cádiz
+Cod_Postal: 11404		Teléfono: 856811856
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11700184		Denominación: Instituto de Educación Secundaria
+Nombre: Hozgarganta		Dependencia: Público
+Domicilio: Avda. de los Deportes  32		Localidad: Jimena de la Frontera
+Municipio: Jimena de la Frontera		Provincia: Cádiz
+Cod_Postal: 11330		Teléfono: 956670517
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11701152		Denominación: Instituto de Educación Secundaria
+Nombre: Antonio Machado		Dependencia: Público
+Domicilio: C/ Blanca de los Ríos  87		Localidad: La Línea de la Concepción
+Municipio: La Línea de la Concepción		Provincia: Cádiz
+Cod_Postal: 11300		Teléfono: 956670738
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11003874		Denominación: Instituto de Educación Secundaria
+Nombre: Mediterráneo		Dependencia: Público
+Domicilio: Avda. María Auxiliadora  16		Localidad: La Línea de la Concepción
+Municipio: La Línea de la Concepción		Provincia: Cádiz
+Cod_Postal: 11300		Teléfono: 956670957
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11003886		Denominación: Instituto de Educación Secundaria
+Nombre: Virgen de la Esperanza		Dependencia: Público
+Domicilio: Avda. La Banqueta  10-12		Localidad: La Línea de la Concepción
+Municipio: La Línea de la Concepción		Provincia: Cádiz
+Cod_Postal: 11300		Teléfono: 956670246
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11700561		Denominación: Instituto de Educación Secundaria
+Nombre: Sierra Luna		Dependencia: Público
+Domicilio: Avda. de Doña Rosa García  8		Localidad: Los Barrios
+Municipio: Los Barrios		Provincia: Cádiz
+Cod_Postal: 11370		Teléfono: 956670745
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11007910		Denominación: Instituto de Educación Secundaria
+Nombre: San Juan de Dios		Dependencia: Público
+Domicilio: Plaza San Juan de Dios  s/n		Localidad: Medina-Sidonia
+Municipio: Medina-Sidonia		Provincia: Cádiz
+Cod_Postal: 11170		Teléfono: 956418924
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11004039		Denominación: Instituto de Educación Secundaria
+Nombre: Sidón		Dependencia: Público
+Domicilio: Avda. Azocarrem  s/n		Localidad: Medina-Sidonia
+Municipio: Medina-Sidonia		Provincia: Cádiz
+Cod_Postal: 11170		Teléfono: 956418902
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11006671		Denominación: Instituto de Educación Secundaria
+Nombre: Zaframagón		Dependencia: Público
+Domicilio: Avda. Manuel de Falla  s/n		Localidad: Olvera
+Municipio: Olvera		Provincia: Cádiz
+Cod_Postal: 11690		Teléfono: 956128820
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11004672		Denominación: Instituto de Educación Secundaria
+Nombre: Manuel de Falla		Dependencia: Público
+Domicilio: Avda. Palestina  s/n		Localidad: Puerto Real
+Municipio: Puerto Real		Provincia: Cádiz
+Cod_Postal: 11510		Teléfono: 956243537
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11004696		Denominación: Instituto de Educación Secundaria
+Nombre: Virgen del Carmen		Dependencia: Público
+Domicilio: Paseo  María Auxiliadora  s/n		Localidad: Puerto Real
+Municipio: Puerto Real		Provincia: Cádiz
+Cod_Postal: 11510		Teléfono: 956243741
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11007533		Denominación: Instituto de Educación Secundaria
+Nombre: Arroyo Hondo		Dependencia: Público
+Domicilio: C/ Maestro  Manuel J. Casal Egea  2		Localidad: Rota
+Municipio: Rota		Provincia: Cádiz
+Cod_Postal: 11520		Teléfono: 956243253
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11700147		Denominación: Instituto de Educación Secundaria
+Nombre: La Bahía		Dependencia: Público
+Domicilio: Avda. Constitución  s/n		Localidad: San Fernando
+Municipio: San Fernando		Provincia: Cádiz
+Cod_Postal: 11100		Teléfono: 956243676
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11005275		Denominación: Instituto de Educación Secundaria
+Nombre: Las Salinas		Dependencia: Público
+Domicilio: Avda. Al-Andalus  s/n		Localidad: San Fernando
+Municipio: San Fernando		Provincia: Cádiz
+Cod_Postal: 11100		Teléfono: 956243380
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 11008239		Denominación: Instituto de Educación Secundaria
+Nombre: Sancti Petri		Dependencia: Público
+Domicilio: Polígono La Magdalena  s/n		Localidad: San Fernando
+Municipio: San Fernando		Provincia: Cádiz
+Cod_Postal: 11100		Teléfono: 956243610
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11007791		Denominación: Instituto de Educación Secundaria
+Nombre: Carlos Castilla del Pino		Dependencia: Público
+Domicilio: Avda. Castiella  5		Localidad: San Roque
+Municipio: San Roque		Provincia: Cádiz
+Cod_Postal: 11360		Teléfono: 956670838
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11005639		Denominación: Instituto de Educación Secundaria
+Nombre: Doñana		Dependencia: Público
+Domicilio: Avda. de Huelva  s/n		Localidad: Sanlúcar de Barrameda
+Municipio: Sanlúcar de Barrameda		Provincia: Cádiz
+Cod_Postal: 11540		Teléfono: 956361514
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11700585		Denominación: Instituto de Educación Secundaria
+Nombre: Almadraba		Dependencia: Público
+Domicilio: C/ Diego Piñero Moreno  1		Localidad: Tarifa
+Municipio: Tarifa		Provincia: Cádiz
+Cod_Postal: 11380		Teléfono: 956670260
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 11006693		Denominación: Instituto de Educación Secundaria
+Nombre: Las Cumbres		Dependencia: Público
+Domicilio: C/ Las Cumbres  s/n. Apdo. 38		Localidad: Ubrique
+Municipio: Ubrique		Provincia: Cádiz
+Cod_Postal: 11600		Teléfono: 956128911
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11006681		Denominación: Instituto de Educación Secundaria
+Nombre: Ntra. Sra. de los Remedios		Dependencia: Público
+Domicilio: Avda. Herrera Oria  s/n		Localidad: Ubrique
+Municipio: Ubrique		Provincia: Cádiz
+Cod_Postal: 11600		Teléfono: 956128903
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 11700597		Denominación: Instituto de Educación Secundaria
+Nombre: La Janda		Dependencia: Público
+Domicilio: C/ Zafra  s/n		Localidad: Vejer de la Frontera
+Municipio: Vejer de la Frontera		Provincia: Cádiz
+Cod_Postal: 11150		Teléfono: 956459595
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 11007545		Denominación: Instituto de Educación Secundaria
+Nombre: Castillo de Matrera		Dependencia: Público
+Domicilio: C/ Sevilla  16		Localidad: Villamartín
+Municipio: Villamartín		Provincia: Cádiz
+Cod_Postal: 11650		Teléfono: 671533701
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14000483		Denominación: Instituto de Educación Secundaria
+Nombre: Luis Carrillo de Sotomayor		Dependencia: Público
+Domicilio: Avda. San Carlos de Chile  s/n		Localidad: Baena
+Municipio: Baena		Provincia: Córdoba
+Cod_Postal: 14850		Teléfono: 957699579
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 14000835		Denominación: Instituto de Educación Secundaria
+Nombre: Felipe Solís Villechenous		Dependencia: Público
+Domicilio: Avda. Fuente del Río  15		Localidad: Cabra
+Municipio: Cabra		Provincia: Córdoba
+Cod_Postal: 14940		Teléfono: 957596928
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 14700286		Denominación: Instituto de Educación Secundaria
+Nombre: Ángel de Saavedra		Dependencia: Público
+Domicilio: Avda. Virgen de las Angustias  s/n		Localidad: Córdoba
+Municipio: Córdoba		Provincia: Córdoba
+Cod_Postal: 14006		Teléfono: 957278661
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14007180		Denominación: Instituto de Educación Secundaria
+Nombre: Blas Infante		Dependencia: Público
+Domicilio: Plaza Platero Pedro de Bares  31 A		Localidad: Córdoba
+Municipio: Córdoba		Provincia: Córdoba
+Cod_Postal: 14007		Teléfono: 957734531
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 14000707		Denominación: Instituto de Educación Secundaria
+Nombre: El Tablero		Dependencia: Público
+Domicilio: Avda. de la Arruzafilla  s/n		Localidad: Córdoba
+Municipio: Córdoba		Provincia: Córdoba
+Cod_Postal: 14011		Teléfono: 957282248
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 14700146		Denominación: Instituto de Educación Secundaria
+Nombre: Fidiana		Dependencia: Público
+Domicilio: C/ Saturno  s/n		Localidad: Córdoba
+Municipio: Córdoba		Provincia: Córdoba
+Cod_Postal: 14014		Teléfono: 957734990
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14007659		Denominación: Instituto de Educación Secundaria
+Nombre: Galileo Galilei		Dependencia: Público
+Domicilio: C/ Francisco Pizarro  16		Localidad: Córdoba
+Municipio: Córdoba		Provincia: Córdoba
+Cod_Postal: 14010		Teléfono: 957734749
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14700079		Denominación: Instituto de Educación Secundaria
+Nombre: Gran Capitán		Dependencia: Público
+Domicilio: C/ Arcos de la Frontera  s/n		Localidad: Córdoba
+Municipio: Córdoba		Provincia: Córdoba
+Cod_Postal: 14014		Teléfono: 957379710
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14007374		Denominación: Instituto de Educación Secundaria
+Nombre: La Fuensanta		Dependencia: Público
+Domicilio: Avda. Calderón de la Barca  s/n		Localidad: Córdoba
+Municipio: Córdoba		Provincia: Córdoba
+Cod_Postal: 14010		Teléfono: 957750888
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 14002996		Denominación: Instituto de Educación Secundaria
+Nombre: López Neyra		Dependencia: Público
+Domicilio: Avda. del Mediterráneo  s/n		Localidad: Córdoba
+Municipio: Córdoba		Provincia: Córdoba
+Cod_Postal: 14011		Teléfono: 957734976
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14002960		Denominación: Instituto de Educación Secundaria
+Nombre: Luis de Góngora		Dependencia: Público
+Domicilio: C/ Diego de León  2		Localidad: Córdoba
+Municipio: Córdoba		Provincia: Córdoba
+Cod_Postal: 14002		Teléfono: 957734551
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14002923		Denominación: Instituto de Educación Secundaria
+Nombre: Maimónides		Dependencia: Público
+Domicilio: C/ Alfonso XIII  4		Localidad: Córdoba
+Municipio: Córdoba		Provincia: Córdoba
+Cod_Postal: 14001		Teléfono: 957379971
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14008056		Denominación: Instituto de Educación Secundaria
+Nombre: San Álvaro		Dependencia: Público
+Domicilio: C/ Poeta Marcial  s/n		Localidad: Córdoba
+Municipio: Córdoba		Provincia: Córdoba
+Cod_Postal: 14009		Teléfono: 957734967
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14007945		Denominación: Instituto de Educación Secundaria
+Nombre: Trassierra		Dependencia: Público
+Domicilio: C/ San Hermenegildo  s/n		Localidad: Córdoba
+Municipio: Córdoba		Provincia: Córdoba
+Cod_Postal: 14011		Teléfono: 957734900
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14004889		Denominación: Instituto de Educación Secundaria
+Nombre: Zoco		Dependencia: Público
+Domicilio: C/ José María Martorell  s/n		Localidad: Córdoba
+Municipio: Córdoba		Provincia: Córdoba
+Cod_Postal: 14005		Teléfono: 957379764
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14003551		Denominación: Instituto de Educación Secundaria
+Nombre: Francisco de los Ríos		Dependencia: Público
+Domicilio: Avda. Juan Carlos I  s/n		Localidad: Fernán Núñez
+Municipio: Fernán Núñez		Provincia: Córdoba
+Cod_Postal: 14520		Teléfono: 957379590
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14003708		Denominación: Instituto de Educación Secundaria
+Nombre: Lope de Vega		Dependencia: Público
+Domicilio: Ctra. de Extremadura  s/n		Localidad: Fuente Obejuna
+Municipio: Fuente Obejuna		Provincia: Córdoba
+Cod_Postal: 14290		Teléfono: 957579525
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14004105		Denominación: Instituto de Educación Secundaria
+Nombre: Padre Juan Ruiz		Dependencia: Público
+Domicilio: C/ Fray Luis de Granada  2		Localidad: Hinojosa del Duque
+Municipio: Hinojosa del Duque		Provincia: Córdoba
+Cod_Postal: 14270		Teléfono: 957149933
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 14700298		Denominación: Instituto de Educación Secundaria
+Nombre: Nuevas Poblaciones		Dependencia: Público
+Domicilio: C/ La Salud  6		Localidad: La Carlota
+Municipio: La Carlota		Provincia: Córdoba
+Cod_Postal: 14100		Teléfono: 957307521
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 14007404		Denominación: Instituto de Educación Secundaria
+Nombre: Juan de Aréjula		Dependencia: Público
+Domicilio: C/ Montemayor  11		Localidad: Lucena
+Municipio: Lucena		Provincia: Córdoba
+Cod_Postal: 14900		Teléfono: 957596543
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14004580		Denominación: Instituto de Educación Secundaria
+Nombre: Marqués de Comares		Dependencia: Público
+Domicilio: C/ Juego de Pelota  54		Localidad: Lucena
+Municipio: Lucena		Provincia: Córdoba
+Cod_Postal: 14900		Teléfono: 957596915
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 14005882		Denominación: Instituto de Educación Secundaria
+Nombre: Sierra de Aras		Dependencia: Público
+Domicilio: C/ María Zambrano  s/n		Localidad: Lucena
+Municipio: Lucena		Provincia: Córdoba
+Cod_Postal: 14900		Teléfono: 957596740
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 14004828		Denominación: Instituto de Educación Secundaria
+Nombre: Emilio Canalejo Olmeda		Dependencia: Público
+Domicilio: Avda. del Trabajo  24		Localidad: Montilla
+Municipio: Montilla		Provincia: Córdoba
+Cod_Postal: 14550		Teléfono: 957699941
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14004841		Denominación: Instituto de Educación Secundaria
+Nombre: Inca Garcilaso		Dependencia: Público
+Domicilio: Avda. de la Constitución  14		Localidad: Montilla
+Municipio: Montilla		Provincia: Córdoba
+Cod_Postal: 14550		Teléfono: 957699600
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 14004971		Denominación: Instituto de Educación Secundaria
+Nombre: Antonio Galán Acosta		Dependencia: Público
+Domicilio: C/ Llanete de los Moros  s/n		Localidad: Montoro
+Municipio: Montoro		Provincia: Córdoba
+Cod_Postal: 14600		Teléfono: 957199904
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14005298		Denominación: Instituto de Educación Secundaria
+Nombre: Antonio Gala		Dependencia: Público
+Domicilio: Avda. de la Paz  s/n		Localidad: Palma del Río
+Municipio: Palma del Río		Provincia: Córdoba
+Cod_Postal: 14700		Teléfono: 957719925
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 14005501		Denominación: Instituto de Educación Secundaria
+Nombre: Alto Guadiato		Dependencia: Público
+Domicilio: Ronda del Guadiato  s/n		Localidad: Peñarroya-Pueblonuevo
+Municipio: Peñarroya-Pueblonuevo		Provincia: Córdoba
+Cod_Postal: 14200		Teléfono: 957579518
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 14005493		Denominación: Instituto de Educación Secundaria
+Nombre: Florencio Pintado		Dependencia: Público
+Domicilio: C/ Romero Robledo  17		Localidad: Peñarroya-Pueblonuevo
+Municipio: Peñarroya-Pueblonuevo		Provincia: Córdoba
+Cod_Postal: 14200		Teléfono: 957579538
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14005560		Denominación: Instituto de Educación Secundaria
+Nombre: Aljanadic		Dependencia: Público
+Domicilio: C/ Almodóvar del Río  s/n		Localidad: Posadas
+Municipio: Posadas		Provincia: Córdoba
+Cod_Postal: 14730		Teléfono: 957719541
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14007684		Denominación: Instituto de Educación Secundaria
+Nombre: Antonio María Calero		Dependencia: Público
+Domicilio: Avda. Marcos Redondo  s/n		Localidad: Pozoblanco
+Municipio: Pozoblanco		Provincia: Córdoba
+Cod_Postal: 14400		Teléfono: 957139550
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14005663		Denominación: Instituto de Educación Secundaria
+Nombre: Los Pedroches		Dependencia: Público
+Domicilio: C/ Marcos Redondo  s/n		Localidad: Pozoblanco
+Municipio: Pozoblanco		Provincia: Córdoba
+Cod_Postal: 14400		Teléfono: 957139546
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14005936		Denominación: Instituto de Educación Secundaria
+Nombre: Álvarez Cubero		Dependencia: Público
+Domicilio: Avda. Niceto Alcalá-Zamora  s/n		Localidad: Priego de Córdoba
+Municipio: Priego de Córdoba		Provincia: Córdoba
+Cod_Postal: 14800		Teléfono: 957540040
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 14005912		Denominación: Instituto de Educación Secundaria
+Nombre: Fernando III El Santo		Dependencia: Público
+Domicilio: Avda. de España  83		Localidad: Priego de Córdoba
+Municipio: Priego de Córdoba		Provincia: Córdoba
+Cod_Postal: 14800		Teléfono: 957540418
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 14007350		Denominación: Instituto de Educación Secundaria
+Nombre: Ingeniero Juan de la Cierva		Dependencia: Público
+Domicilio: C/ Cortes Españolas  s/n		Localidad: Puente Genil
+Municipio: Puente Genil		Provincia: Córdoba
+Cod_Postal: 14500		Teléfono: 957618906
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 14006217		Denominación: Instituto de Educación Secundaria
+Nombre: Manuel Reina		Dependencia: Público
+Domicilio: C/ Cristóbal del Castillo  2		Localidad: Puente Genil
+Municipio: Puente Genil		Provincia: Córdoba
+Cod_Postal: 14500		Teléfono: 957618579
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 18000601		Denominación: Instituto de Educación Secundaria
+Nombre: Antigua Sexi		Dependencia: Público
+Domicilio: C/ Lo Colorado  s/n		Localidad: Almuñécar
+Municipio: Almuñécar		Provincia: Granada
+Cod_Postal: 18690		Teléfono: 958649590
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18000787		Denominación: Instituto de Educación Secundaria
+Nombre: Luis Bueno Crespo		Dependencia: Público
+Domicilio: Avda. de Las Palmeras  s/n		Localidad: Armilla
+Municipio: Armilla		Provincia: Granada
+Cod_Postal: 18100		Teléfono: 958893739
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18000908		Denominación: Instituto de Educación Secundaria
+Nombre: Iliberis		Dependencia: Público
+Domicilio: Avda. Andalucía  84		Localidad: Atarfe
+Municipio: Atarfe		Provincia: Granada
+Cod_Postal: 18230		Teléfono: 958893993
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 18009407		Denominación: Instituto de Educación Secundaria
+Nombre: Vega de Atarfe		Dependencia: Público
+Domicilio: Avda. Diputación  s/n		Localidad: Atarfe
+Municipio: Atarfe		Provincia: Granada
+Cod_Postal: 18230		Teléfono: 958893937
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18001123		Denominación: Instituto de Educación Secundaria
+Nombre: Pedro Jiménez Montoya		Dependencia: Público
+Domicilio: C/ Isaac Peral  2		Localidad: Baza
+Municipio: Baza		Provincia: Granada
+Cod_Postal: 18800		Teléfono: 958869905
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 18002243		Denominación: Instituto de Educación Secundaria
+Nombre: Federico García Lorca		Dependencia: Público
+Domicilio: C/ San Ramón  10		Localidad: Churriana de la Vega
+Municipio: Churriana de la Vega		Provincia: Granada
+Cod_Postal: 18194		Teléfono: 958893827
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18001834		Denominación: Instituto de Educación Secundaria
+Nombre: Emilio Muñoz		Dependencia: Público
+Domicilio: Pago de Catacena  s/n		Localidad: Cogollos Vega
+Municipio: Cogollos Vega		Provincia: Granada
+Cod_Postal: 18197		Teléfono: 958893727
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18009419		Denominación: Instituto de Educación Secundaria
+Nombre: Valle de Lecrín		Dependencia: Público
+Domicilio: C/ Arenillas  s/n		Localidad: Dúrcal
+Municipio: Dúrcal		Provincia: Granada
+Cod_Postal: 18650		Teléfono: 958779926
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18700372		Denominación: Instituto de Educación Secundaria
+Nombre: Montevives		Dependencia: Público
+Domicilio: C/ Haití  s/n		Localidad: Gabia Grande
+Municipio: Las Gabias		Provincia: Granada
+Cod_Postal: 18110		Teléfono: 958893678
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 18009389		Denominación: Instituto de Educación Secundaria
+Nombre: Albayzín		Dependencia: Público
+Domicilio: C/ Camino de San Antonio  s/n		Localidad: Granada
+Municipio: Granada		Provincia: Granada
+Cod_Postal: 18011		Teléfono: 958283863
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18004276		Denominación: Instituto de Educación Secundaria
+Nombre: Ángel Ganivet		Dependencia: Público
+Domicilio: C/ Santa Bárbara  15		Localidad: Granada
+Municipio: Granada		Provincia: Granada
+Cod_Postal: 18001		Teléfono: 958893353
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18008841		Denominación: Instituto de Educación Secundaria
+Nombre: Cartuja		Dependencia: Público
+Domicilio: C/ Julio Moreno Dávila  18		Localidad: Granada
+Municipio: Granada		Provincia: Granada
+Cod_Postal: 18011		Teléfono: 958893286
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 18700293		Denominación: Instituto de Educación Secundaria
+Nombre: Francisco Ayala		Dependencia: Público
+Domicilio: Avda. Francisco Ayala  s/n		Localidad: Granada
+Municipio: Granada		Provincia: Granada
+Cod_Postal: 18014		Teléfono: 958893750
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 18004291		Denominación: Instituto de Educación Secundaria
+Nombre: Padre Manjón		Dependencia: Público
+Domicilio: C/ Gonzalo Gallas  s/n		Localidad: Granada
+Municipio: Granada		Provincia: Granada
+Cod_Postal: 18003		Teléfono: 958893493
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18700037		Denominación: Instituto de Educación Secundaria
+Nombre: Pedro Soto de Rojas		Dependencia: Público
+Domicilio: C/ Torre de los Picos  2		Localidad: Granada
+Municipio: Granada		Provincia: Granada
+Cod_Postal: 18008		Teléfono: 958893300
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 18004288		Denominación: Instituto de Educación Secundaria
+Nombre: Politécnico Hermenegildo Lanz		Dependencia: Público
+Domicilio: C/ Albondón  7		Localidad: Granada
+Municipio: Granada		Provincia: Granada
+Cod_Postal: 18003		Teléfono: 958893230
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18004458		Denominación: Instituto de Educación Secundaria
+Nombre: Virgen de las Nieves		Dependencia: Público
+Domicilio: Avda. de Andalucía  38		Localidad: Granada
+Municipio: Granada		Provincia: Granada
+Cod_Postal: 18014		Teléfono: 958893380
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18700098		Denominación: Instituto de Educación Secundaria
+Nombre: Zaidín-Vergeles		Dependencia: Público
+Domicilio: C/ Primavera  26-28		Localidad: Granada
+Municipio: Granada		Provincia: Granada
+Cod_Postal: 18008		Teléfono: 958893850
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18009213		Denominación: Instituto de Educación Secundaria
+Nombre: Acci		Dependencia: Público
+Domicilio: Avda. Buenos Aires  68		Localidad: Guadix
+Municipio: Guadix		Provincia: Granada
+Cod_Postal: 18500		Teléfono: 958699912
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18004801		Denominación: Instituto de Educación Secundaria
+Nombre: Padre Poveda		Dependencia: Público
+Domicilio: Avda. Mariana Pineda  s/n		Localidad: Guadix
+Municipio: Guadix		Provincia: Granada
+Cod_Postal: 18500		Teléfono: 958660620
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18005141		Denominación: Instituto de Educación Secundaria
+Nombre: La Sagra		Dependencia: Público
+Domicilio: Avda. Granada  s/n		Localidad: Huéscar
+Municipio: Huéscar		Provincia: Granada
+Cod_Postal: 18830		Teléfono: 958729914
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18700301		Denominación: Instituto de Educación Secundaria
+Nombre: Américo Castro		Dependencia: Público
+Domicilio: C/ Eras Bajas  s/n		Localidad: Huétor Tájar
+Municipio: Huétor Tájar		Provincia: Granada
+Cod_Postal: 18360		Teléfono: 958333098
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18700475		Denominación: Instituto de Educación Secundaria
+Nombre: Montes Orientales		Dependencia: Público
+Domicilio: Ctra. de la Sierra  15		Localidad: Iznalloz
+Municipio: Iznalloz		Provincia: Granada
+Cod_Postal: 18550		Teléfono: 958384060
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 18005992		Denominación: Instituto de Educación Secundaria
+Nombre: Moraima		Dependencia: Público
+Domicilio: Ctra. de Priego  s/n		Localidad: Loja
+Municipio: Loja		Provincia: Granada
+Cod_Postal: 18300		Teléfono: 958338632
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18700426		Denominación: Instituto de Educación Secundaria
+Nombre: Francisco Giner de los Ríos		Dependencia: Público
+Domicilio: C/ La matraquilla  5		Localidad: Motril
+Municipio: Motril		Provincia: Granada
+Cod_Postal: 18600		Teléfono: 958649988
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 18007046		Denominación: Instituto de Educación Secundaria
+Nombre: Francisco Javier de Burgos		Dependencia: Público
+Domicilio: Avda. González Carrascosa  s/n		Localidad: Motril
+Municipio: Motril		Provincia: Granada
+Cod_Postal: 18600		Teléfono: 958649903
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 18007022		Denominación: Instituto de Educación Secundaria
+Nombre: La Zafra		Dependencia: Público
+Domicilio: C/ Menéndez y Pelayo  40		Localidad: Motril
+Municipio: Motril		Provincia: Granada
+Cod_Postal: 18600		Teléfono: 958649941
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 18700761		Denominación: Instituto de Educación Secundaria
+Nombre: Alpujarra		Dependencia: Público
+Domicilio: Avda. Lora Tamayo  s/n		Localidad: Órgiva
+Municipio: Órgiva		Provincia: Granada
+Cod_Postal: 18400		Teléfono: 958779900
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 18009444		Denominación: Instituto de Educación Secundaria
+Nombre: Hispanidad		Dependencia: Público
+Domicilio: C/ Celestino Mutis  1		Localidad: Santa Fe
+Municipio: Santa Fe		Provincia: Granada
+Cod_Postal: 18320		Teléfono: 671533270
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 21700654		Denominación: Instituto de Educación Secundaria
+Nombre: Doñana		Dependencia: Público
+Domicilio: Avda. de la Juventud  s/n		Localidad: Almonte
+Municipio: Almonte		Provincia: Huelva
+Cod_Postal: 21730		Teléfono: 959439951
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 21700381		Denominación: Instituto de Educación Secundaria
+Nombre: San Blas		Dependencia: Público
+Domicilio: Plaza Doña Elvira Embid  s/n		Localidad: Aracena
+Municipio: Aracena		Provincia: Huelva
+Cod_Postal: 21200		Teléfono: 959126235
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 21700502		Denominación: Instituto de Educación Secundaria
+Nombre: Guadiana		Dependencia: Público
+Domicilio: C/ Doctor Severo Ochoa  s/n		Localidad: Ayamonte
+Municipio: Ayamonte		Provincia: Huelva
+Cod_Postal: 21400		Teléfono: 959349932
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 21000693		Denominación: Instituto de Educación Secundaria
+Nombre: Delgado Hernández		Dependencia: Público
+Domicilio: C/ Dalí  1		Localidad: Bollullos Par del Condado
+Municipio: Bollullos Par del Condado		Provincia: Huelva
+Cod_Postal: 21710		Teléfono: 959439921
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 21000899		Denominación: Instituto de Educación Secundaria
+Nombre: Rafael Reyes		Dependencia: Público
+Domicilio: Ctra. Huelva-Ayamonte  s/n		Localidad: Cartaya
+Municipio: Cartaya		Provincia: Huelva
+Cod_Postal: 21450		Teléfono: 959489649
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 21001995		Denominación: Instituto de Educación Secundaria
+Nombre: Alto Conquero		Dependencia: Público
+Domicilio: Avda. Manuel Siurot  36		Localidad: Huelva
+Municipio: Huelva		Provincia: Huelva
+Cod_Postal: 21002		Teléfono: 959524860
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 21001909		Denominación: Instituto de Educación Secundaria
+Nombre: Diego de Guzmán y Quesada		Dependencia: Público
+Domicilio: Avda. Manuel Siurot  11		Localidad: Huelva
+Municipio: Huelva		Provincia: Huelva
+Cod_Postal: 21004		Teléfono: 959524835
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 21003712		Denominación: Instituto de Educación Secundaria
+Nombre: Fuentepiña		Dependencia: Público
+Domicilio: C/ Camino del Saladillo  s/n		Localidad: Huelva
+Municipio: Huelva		Provincia: Huelva
+Cod_Postal: 21007		Teléfono: 959524521
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 21003980		Denominación: Instituto de Educación Secundaria
+Nombre: José Caballero		Dependencia: Público
+Domicilio: C/ Tráfico Pesado  s/n. Apdo. 1200		Localidad: Huelva
+Municipio: Huelva		Provincia: Huelva
+Cod_Postal: 21004		Teléfono: 959524155
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 21002011		Denominación: Instituto de Educación Secundaria
+Nombre: La Marisma		Dependencia: Público
+Domicilio: Avda. Santa Marta  s/n		Localidad: Huelva
+Municipio: Huelva		Provincia: Huelva
+Cod_Postal: 21005		Teléfono: 959524867
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 21700058		Denominación: Instituto de Educación Secundaria
+Nombre: Pablo Neruda		Dependencia: Público
+Domicilio: C/ Doctor Rubio  1		Localidad: Huelva
+Municipio: Huelva		Provincia: Huelva
+Cod_Postal: 21002		Teléfono: 959524246
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 21001922		Denominación: Instituto de Educación Secundaria
+Nombre: Pintor Pedro Gómez		Dependencia: Público
+Domicilio: Avda. Manuel Siurot  40		Localidad: Huelva
+Municipio: Huelva		Provincia: Huelva
+Cod_Postal: 21002		Teléfono: 959524850
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 21700010		Denominación: Instituto de Educación Secundaria
+Nombre: San Sebastián		Dependencia: Público
+Domicilio: Avda. de Andalucía  s/n		Localidad: Huelva
+Municipio: Huelva		Provincia: Huelva
+Cod_Postal: 21004		Teléfono: 959524177
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 21002100		Denominación: Instituto de Educación Secundaria
+Nombre: Padre José Miravent		Dependencia: Público
+Domicilio: C/ Emiliano Cabot  22		Localidad: Isla Cristina
+Municipio: Isla Cristina		Provincia: Huelva
+Cod_Postal: 21410		Teléfono: 959349582
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 21700460		Denominación: Instituto de Educación Secundaria
+Nombre: La Palma		Dependencia: Público
+Domicilio: Paseo de los Estudiantes  s/n		Localidad: La Palma del Condado
+Municipio: La Palma del Condado		Provincia: Huelva
+Cod_Postal: 21700		Teléfono: 600141643
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 21700630		Denominación: Instituto de Educación Secundaria
+Nombre: La Arboleda		Dependencia: Público
+Domicilio: Avda. de la Arboleda  s/n		Localidad: Lepe
+Municipio: Lepe		Provincia: Huelva
+Cod_Postal: 21440		Teléfono: 959489904
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 21700290		Denominación: Instituto de Educación Secundaria
+Nombre: Cuenca Minera		Dependencia: Público
+Domicilio: Avda. Juan Ramón Jiménez  s/n		Localidad: Minas de Riotinto
+Municipio: Minas de Riotinto		Provincia: Huelva
+Cod_Postal: 21660		Teléfono: 671538687
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 21002483		Denominación: Instituto de Educación Secundaria
+Nombre: Vázquez Díaz		Dependencia: Público
+Domicilio: C/ Cerro los Baños  s/n		Localidad: Nerva
+Municipio: Nerva		Provincia: Huelva
+Cod_Postal: 21670		Teléfono: 959598545
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 21700307		Denominación: Instituto de Educación Secundaria
+Nombre: Saltés		Dependencia: Público
+Domicilio: C/ Pintor José Caballero  s/n		Localidad: Punta Umbría
+Municipio: Punta Umbría		Provincia: Huelva
+Cod_Postal: 21100		Teléfono: 600141287
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 21002951		Denominación: Instituto de Educación Secundaria
+Nombre: Don Bosco		Dependencia: Público
+Domicilio: C/ Diputación  s/n		Localidad: Valverde del Camino
+Municipio: Valverde del Camino		Provincia: Huelva
+Cod_Postal: 21600		Teléfono: 959559520
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23000106		Denominación: Instituto de Educación Secundaria
+Nombre: Alfonso XI		Dependencia: Público
+Domicilio: C/ Maestro Pascual Baca  2		Localidad: Alcalá la Real
+Municipio: Alcalá la Real		Provincia: Jaén
+Cod_Postal: 23680		Teléfono: 953599534
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23000246		Denominación: Instituto de Educación Secundaria
+Nombre: Salvador Serrano		Dependencia: Público
+Domicilio: Parque Parque de la Fuensanta  2		Localidad: Alcaudete
+Municipio: Alcaudete		Provincia: Jaén
+Cod_Postal: 23660		Teléfono: 953366963
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 23005694		Denominación: Instituto de Educación Secundaria
+Nombre: Jándula		Dependencia: Público
+Domicilio: Ctra. de los Villares  s/n		Localidad: Andújar
+Municipio: Andújar		Provincia: Jaén
+Cod_Postal: 23740		Teléfono: 953539508
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23000556		Denominación: Instituto de Educación Secundaria
+Nombre: Nuestra Señora de la Cabeza		Dependencia: Público
+Domicilio: C/ Argimiro Rodríguez Álvarez  s/n		Localidad: Andújar
+Municipio: Andújar		Provincia: Jaén
+Cod_Postal: 23740		Teléfono: 953539525
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23000830		Denominación: Instituto de Educación Secundaria
+Nombre: Andrés de Vandelvira		Dependencia: Público
+Domicilio: C/ Garnica  3		Localidad: Baeza
+Municipio: Baeza		Provincia: Jaén
+Cod_Postal: 23440		Teléfono: 953779908
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 23000817		Denominación: Instituto de Educación Secundaria
+Nombre: Santísima Trinidad		Dependencia: Público
+Domicilio: C/ Juan de Ávila  2		Localidad: Baeza
+Municipio: Baeza		Provincia: Jaén
+Cod_Postal: 23440		Teléfono: 953779522
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23700840		Denominación: Instituto de Educación Secundaria
+Nombre: María Bellido		Dependencia: Público
+Domicilio: C/ Juan Salcedo Guillén  s/n		Localidad: Bailén
+Municipio: Bailén		Provincia: Jaén
+Cod_Postal: 23710		Teléfono: 953609535
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23001111		Denominación: Instituto de Educación Secundaria
+Nombre: Castillo de la Yedra		Dependencia: Público
+Domicilio: C/ Cruz de Orea  57		Localidad: Cazorla
+Municipio: Cazorla		Provincia: Jaén
+Cod_Postal: 23470		Teléfono: 953711520
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 23005062		Denominación: Instituto de Educación Secundaria
+Nombre: Auringis		Dependencia: Público
+Domicilio: C/ Cerro de los Lirios  1		Localidad: Jaén
+Municipio: Jaén		Provincia: Jaén
+Cod_Postal: 23005		Teléfono: 953366161
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23700271		Denominación: Instituto de Educación Secundaria
+Nombre: El Valle		Dependencia: Público
+Domicilio: Ctra. de Madrid  2		Localidad: Jaén
+Municipio: Jaén		Provincia: Jaén
+Cod_Postal: 23009		Teléfono: 953366732
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 23002449		Denominación: Instituto de Educación Secundaria
+Nombre: Las Fuentezuelas		Dependencia: Público
+Domicilio: Avda. de Arjona  5		Localidad: Jaén
+Municipio: Jaén		Provincia: Jaén
+Cod_Postal: 23006		Teléfono: 953366905
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23005529		Denominación: Instituto de Educación Secundaria
+Nombre: San Juan Bosco		Dependencia: Público
+Domicilio: C/ Millán de Priego  6		Localidad: Jaén
+Municipio: Jaén		Provincia: Jaén
+Cod_Postal: 23007		Teléfono: 953366753
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23002401		Denominación: Instituto de Educación Secundaria
+Nombre: Virgen del Carmen		Dependencia: Público
+Domicilio: Paseo de la Estación  44		Localidad: Jaén
+Municipio: Jaén		Provincia: Jaén
+Cod_Postal: 23008		Teléfono: 953366942
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 23001287		Denominación: Instituto de Educación Secundaria
+Nombre: Martín Halaja		Dependencia: Público
+Domicilio: Avda. de Madrid  s/n		Localidad: La Carolina
+Municipio: La Carolina		Provincia: Jaén
+Cod_Postal: 23200		Teléfono: 953609944
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23005049		Denominación: Instituto de Educación Secundaria
+Nombre: Pablo de Olavide		Dependencia: Público
+Domicilio: C/ Buenavista  66		Localidad: La Carolina
+Municipio: La Carolina		Provincia: Jaén
+Cod_Postal: 23200		Teléfono: 953609618
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23005141		Denominación: Instituto de Educación Secundaria
+Nombre: Cástulo		Dependencia: Público
+Domicilio: C/ San Cristóbal  s/n		Localidad: Linares
+Municipio: Linares		Provincia: Jaén
+Cod_Postal: 23700		Teléfono: 953609828
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23700281		Denominación: Instituto de Educación Secundaria
+Nombre: Oretania		Dependencia: Público
+Domicilio: C/ Fernando de Herrera  8		Localidad: Linares
+Municipio: Linares		Provincia: Jaén
+Cod_Postal: 23700		Teléfono: 953609851
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 23002851		Denominación: Instituto de Educación Secundaria
+Nombre: Reyes de España		Dependencia: Público
+Domicilio: Avda. San Cristóbal  s/n		Localidad: Linares
+Municipio: Linares		Provincia: Jaén
+Cod_Postal: 23700		Teléfono: 953609862
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23700293		Denominación: Instituto de Educación Secundaria
+Nombre: Virgen de la Cabeza		Dependencia: Público
+Domicilio: C/ Calvario 146		Localidad: Marmolejo
+Municipio: Marmolejo		Provincia: Jaén
+Cod_Postal: 23770		Teléfono: 953539933
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 23003119		Denominación: Instituto de Educación Secundaria
+Nombre: Fernando III		Dependencia: Público
+Domicilio: Parque Manuel Carrasco  s/n		Localidad: Martos
+Municipio: Martos		Provincia: Jaén
+Cod_Postal: 23600		Teléfono: 953366628
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23003132		Denominación: Instituto de Educación Secundaria
+Nombre: San Felipe Neri		Dependencia: Público
+Domicilio: C/ Río Jandula  1		Localidad: Martos
+Municipio: Martos		Provincia: Jaén
+Cod_Postal: 23600		Teléfono: 953366810
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 23700414		Denominación: Instituto de Educación Secundaria
+Nombre: Villa de Santiago		Dependencia: Público
+Domicilio: C/ Postigos  s/n		Localidad: Santiago de la Espada
+Municipio: Santiago-Pontones		Provincia: Jaén
+Cod_Postal: 23290		Teléfono: 953429505
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23700335		Denominación: Instituto de Educación Secundaria
+Nombre: Acebuche		Dependencia: Público
+Domicilio: C/ Antonio Machado  4		Localidad: Torredonjimeno
+Municipio: Torredonjimeno		Provincia: Jaén
+Cod_Postal: 23650		Teléfono: 671537996
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 23004264		Denominación: Instituto de Educación Secundaria
+Nombre: Los Cerros		Dependencia: Público
+Domicilio: C/ Cronista Juan de la Torre  s/n		Localidad: Úbeda
+Municipio: Úbeda		Provincia: Jaén
+Cod_Postal: 23400		Teléfono: 953779990
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 23700864		Denominación: Instituto de Educación Secundaria
+Nombre: Sierra de las Villas		Dependencia: Público
+Domicilio: Ctra. de Mogón  s/n		Localidad: Villacarrillo
+Municipio: Villacarrillo		Provincia: Jaén
+Cod_Postal: 23300		Teléfono: 953429606
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29000529		Denominación: Instituto de Educación Secundaria
+Nombre: Antonio Gala		Dependencia: Público
+Domicilio: C/ Giner de los Ríos  s/n		Localidad: Alhaurín el Grande
+Municipio: Alhaurín el Grande		Provincia: Málaga
+Cod_Postal: 29120		Teléfono: 951269928
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29012052		Denominación: Instituto de Educación Secundaria
+Nombre: Los Colegiales		Dependencia: Público
+Domicilio: Paseo de los Colegiales  s/n		Localidad: Antequera
+Municipio: Antequera		Provincia: Málaga
+Cod_Postal: 29200		Teléfono: 952712500
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29001145		Denominación: Instituto de Educación Secundaria
+Nombre: Pedro Espinosa		Dependencia: Público
+Domicilio: C/ Carrera  12		Localidad: Antequera
+Municipio: Antequera		Provincia: Málaga
+Cod_Postal: 29200		Teléfono: 952712963
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29010857		Denominación: Instituto de Educación Secundaria
+Nombre: Pintor José María Fernández		Dependencia: Público
+Domicilio: Ctra. de Málaga  8		Localidad: Antequera
+Municipio: Antequera		Provincia: Málaga
+Cod_Postal: 29200		Teléfono: 952712991
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29009892		Denominación: Instituto de Educación Secundaria
+Nombre: Al-Baytar		Dependencia: Público
+Domicilio: Avda. Erasa  s/n. Urb. Béjar		Localidad: Arroyo de la Miel-Benalmádena Costa
+Municipio: Benalmádena		Provincia: Málaga
+Cod_Postal: 29639		Teléfono: 951293825
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29012064		Denominación: Instituto de Educación Secundaria
+Nombre: Arroyo de la Miel		Dependencia: Público
+Domicilio: Avda. Inmaculada Concepción  s/n		Localidad: Arroyo de la Miel-Benalmádena Costa
+Municipio: Benalmádena		Provincia: Málaga
+Cod_Postal: 29631		Teléfono: 951297980
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29700621		Denominación: Instituto de Educación Secundaria
+Nombre: Cerro del Viento		Dependencia: Público
+Domicilio: Avda. del Cerro del Viento  11		Localidad: Arroyo de la Miel-Benalmádena Costa
+Municipio: Benalmádena		Provincia: Málaga
+Cod_Postal: 29630		Teléfono: 951298727
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29700011		Denominación: Instituto de Educación Secundaria
+Nombre: Campanillas		Dependencia: Público
+Domicilio: Bda. Campanillas		Localidad: Campanillas
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29590		Teléfono: 951298460
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29700631		Denominación: Instituto de Educación Secundaria
+Nombre: Valle del Azahar		Dependencia: Público
+Domicilio: C/ Pitágoras 2		Localidad: Cártama
+Municipio: Cártama		Provincia: Málaga
+Cod_Postal: 29580		Teléfono: 951269502
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29700357		Denominación: Instituto de Educación Secundaria
+Nombre: Jacaranda		Dependencia: Público
+Domicilio: C/ Gaspar Sanz  1. Urb. Platero		Localidad: Churriana
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29140		Teléfono: 951293816
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29002332		Denominación: Instituto de Educación Secundaria
+Nombre: Ciudad de Coín		Dependencia: Público
+Domicilio: C/ Urbano Pineda  s/n		Localidad: Coín
+Municipio: Coín		Provincia: Málaga
+Cod_Postal: 29100		Teléfono: 951268500
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29009909		Denominación: Instituto de Educación Secundaria
+Nombre: Mar de Alborán		Dependencia: Público
+Domicilio: C/ Fuente de María Gil  30		Localidad: Estepona
+Municipio: Estepona		Provincia: Málaga
+Cod_Postal: 29680		Teléfono: 951270969
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29002885		Denominación: Instituto de Educación Secundaria
+Nombre: Monterroso		Dependencia: Público
+Domicilio: Avda. Santo Tomás de Aquino  s/n		Localidad: Estepona
+Municipio: Estepona		Provincia: Málaga
+Cod_Postal: 29680		Teléfono: 952795802
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29003041		Denominación: Instituto de Educación Secundaria
+Nombre: Fuengirola Nº 1		Dependencia: Público
+Domicilio: C/ Camino de Santiago  3		Localidad: Fuengirola
+Municipio: Fuengirola		Provincia: Málaga
+Cod_Postal: 29640		Teléfono: 951269967
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29700497		Denominación: Instituto de Educación Secundaria
+Nombre: Los Boliches		Dependencia: Público
+Domicilio: C/ Frascuelo  s/n		Localidad: Fuengirola
+Municipio: Fuengirola		Provincia: Málaga
+Cod_Postal: 29640		Teléfono: 951269910
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29009910		Denominación: Instituto de Educación Secundaria
+Nombre: Santiago Ramón y Cajal		Dependencia: Público
+Domicilio: C/ Doctor García Verdugo  1		Localidad: Fuengirola
+Municipio: Fuengirola		Provincia: Málaga
+Cod_Postal: 29640		Teléfono: 951269821
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29007329		Denominación: Instituto de Educación Secundaria
+Nombre: Vega de Mijas		Dependencia: Público
+Domicilio: C/ Don Antonio García Moreno  5		Localidad: Las Lagunas
+Municipio: Mijas		Provincia: Málaga
+Cod_Postal: 29651		Teléfono: 951268758
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29012076		Denominación: Instituto de Educación Secundaria
+Nombre: Ben Gabirol		Dependencia: Público
+Domicilio: C/ Agustín Martín Carrión  6		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29006		Teléfono: 951298509
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29005977		Denominación: Instituto de Educación Secundaria
+Nombre: Cánovas del Castillo		Dependencia: Público
+Domicilio: C/ San Millán  s/n		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29013		Teléfono: 951298512
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29009922		Denominación: Instituto de Educación Secundaria
+Nombre: El Palo		Dependencia: Público
+Domicilio: Cmo. Viejo de Vélez  s/n		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29018		Teléfono: 951298521
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29700503		Denominación: Instituto de Educación Secundaria
+Nombre: Fernando de los Ríos		Dependencia: Público
+Domicilio: C/ Ntra. Sra. de las Candelas  15		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29004		Teléfono: 951298439
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29700527		Denominación: Instituto de Educación Secundaria
+Nombre: Jardines de Puerta Oscura		Dependencia: Público
+Domicilio: C/ Mirazucena  s/n. Miraflores de los Ángeles		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29011		Teléfono: 951297939
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29005916		Denominación: Instituto de Educación Secundaria
+Nombre: La Rosaleda		Dependencia: Público
+Domicilio: Avda. Luis Buñuel  8		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29011		Teléfono: 952640035
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29700096		Denominación: Instituto de Educación Secundaria
+Nombre: Litoral		Dependencia: Público
+Domicilio: Avda. Los Guindos  46		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29004		Teléfono: 951298400
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29010870		Denominación: Instituto de Educación Secundaria
+Nombre: Mare Nostrum		Dependencia: Público
+Domicilio: C/ Villanueva de Algaidas  9		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29004		Teléfono: 951298446
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29700047		Denominación: Instituto de Educación Secundaria
+Nombre: Martín de Aldehuela		Dependencia: Público
+Domicilio: C/ Llobregat  s/n. Ciudad Jardín		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29014		Teléfono: 951297964
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29012106		Denominación: Instituto de Educación Secundaria
+Nombre: Miguel Romero Esteo		Dependencia: Público
+Domicilio: C/ Agustín Martín Carrión  s/n		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29006		Teléfono: 951298668
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29700242		Denominación: Instituto de Educación Secundaria
+Nombre: Núm. 1. Universidad Laboral		Dependencia: Público
+Domicilio: C/ Julio Verne  6. Aptdo. de correos 9170		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29080		Teléfono: 951298580
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29005989		Denominación: Instituto de Educación Secundaria
+Nombre: Politécnico Jesús Marín		Dependencia: Público
+Domicilio: C/ Politécnico  1		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29007		Teléfono: 951297914
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29700412		Denominación: Instituto de Educación Secundaria
+Nombre: Portada Alta		Dependencia: Público
+Domicilio: C/ Portada Alta  s/n		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29007		Teléfono: 951297929
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29010365		Denominación: Instituto de Educación Secundaria
+Nombre: Profesor Isidoro Sánchez		Dependencia: Público
+Domicilio: Otros Nuevo San Andrés. Complejo Guadaljaire		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29003		Teléfono: 951293909
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29700400		Denominación: Instituto de Educación Secundaria
+Nombre: Puerto de la Torre		Dependencia: Público
+Domicilio: C/ Cristo de los Milagros  25		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29190		Teléfono: 951297923
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29700333		Denominación: Instituto de Educación Secundaria
+Nombre: Santa Bárbara		Dependencia: Público
+Domicilio: Avda. de Europa  128		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29004		Teléfono: 951298434
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29005965		Denominación: Instituto de Educación Secundaria
+Nombre: Sierra Bermeja		Dependencia: Público
+Domicilio: Avda. Ramón y Cajal  113		Localidad: Málaga
+Municipio: Málaga		Provincia: Málaga
+Cod_Postal: 29014		Teléfono: 951297990
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29700722		Denominación: Instituto de Educación Secundaria
+Nombre: Las Viñas		Dependencia: Público
+Domicilio: Ctra. del Peñoncillo  s/n		Localidad: Manilva
+Municipio: Manilva		Provincia: Málaga
+Cod_Postal: 29692		Teléfono: 951270714
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29006830		Denominación: Instituto de Educación Secundaria
+Nombre: Guadalpín		Dependencia: Público
+Domicilio: Blvar. Principe Alfonso de Hohenlohe  s/n		Localidad: Marbella
+Municipio: Marbella		Provincia: Málaga
+Cod_Postal: 29602		Teléfono: 951270906
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29700126		Denominación: Instituto de Educación Secundaria
+Nombre: Río Verde		Dependencia: Público
+Domicilio: C/ Notario Luis Oliver 18		Localidad: Marbella
+Municipio: Marbella		Provincia: Málaga
+Cod_Postal: 29600		Teléfono: 951270557
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29006854		Denominación: Instituto de Educación Secundaria
+Nombre: Sierra Blanca		Dependencia: Público
+Domicilio: Avda. Doctor Maiz Viñals  24		Localidad: Marbella
+Municipio: Marbella		Provincia: Málaga
+Cod_Postal: 29600		Teléfono: 952828384
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29700758		Denominación: Instituto de Educación Secundaria
+Nombre: Victoria Kent		Dependencia: Público
+Domicilio: C/ Alfredo Palma  s/n		Localidad: Marbella
+Municipio: Marbella		Provincia: Málaga
+Cod_Postal: 29600		Teléfono: 951270613
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29700023		Denominación: Instituto de Educación Secundaria
+Nombre: Sierra de Mijas		Dependencia: Público
+Domicilio: C/ Río las Pasadas  1		Localidad: Mijas
+Municipio: Mijas		Provincia: Málaga
+Cod_Postal: 29649		Teléfono: 951269860
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29700059		Denominación: Instituto de Educación Secundaria
+Nombre: Bezmiliana		Dependencia: Público
+Domicilio: Urb. Gran Sol  s/n		Localidad: Rincón de la Victoria
+Municipio: Rincón de la Victoria		Provincia: Málaga
+Cod_Postal: 29730		Teléfono: 951293832
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29007962		Denominación: Instituto de Educación Secundaria
+Nombre: Martín Rivero		Dependencia: Público
+Domicilio: C/ Fernando de los Ríos  1		Localidad: Ronda
+Municipio: Ronda		Provincia: Málaga
+Cod_Postal: 29400		Teléfono: 952169907
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29007998		Denominación: Instituto de Educación Secundaria
+Nombre: Pérez de Guzmán		Dependencia: Público
+Domicilio: C/ Dolores Ibarruri  3		Localidad: Ronda
+Municipio: Ronda		Provincia: Málaga
+Cod_Postal: 29400		Teléfono: 697954302
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29700035		Denominación: Instituto de Educación Secundaria
+Nombre: Profesor Gonzalo Huesa		Dependencia: Público
+Domicilio: C/ San Vicente de Paul  s/n		Localidad: Ronda
+Municipio: Ronda		Provincia: Málaga
+Cod_Postal: 29400		Teléfono: 671538612
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29700771		Denominación: Instituto de Educación Secundaria
+Nombre: Guadaiza		Dependencia: Público
+Domicilio: C/ Juan Illesca  s/n. Urb. Fuente Nueva		Localidad: San Pedro de Alcántara
+Municipio: Marbella		Provincia: Málaga
+Cod_Postal: 29670		Teléfono: 951270716
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29011552		Denominación: Instituto de Educación Secundaria
+Nombre: María Zambrano		Dependencia: Público
+Domicilio: C/ Cipriano Maldonado Jiménez  s/n		Localidad: Torre del Mar
+Municipio: Vélez-Málaga		Provincia: Málaga
+Cod_Postal: 29740		Teléfono: 951289559
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29700345		Denominación: Instituto de Educación Secundaria
+Nombre: Miraya del Mar		Dependencia: Público
+Domicilio: Urb. Jardines del Rocío		Localidad: Torre del Mar
+Municipio: Vélez-Málaga		Provincia: Málaga
+Cod_Postal: 29740		Teléfono: 951289990
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 29006568		Denominación: Instituto de Educación Secundaria
+Nombre: Los Manantiales		Dependencia: Público
+Domicilio: C/ Periodista Federico Alba  21		Localidad: Torremolinos
+Municipio: Torremolinos		Provincia: Málaga
+Cod_Postal: 29620		Teléfono: 952387159
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 29008681		Denominación: Instituto de Educación Secundaria
+Nombre: Juan de la Cierva		Dependencia: Público
+Domicilio: C/ Doctor Fernando Vivar  2		Localidad: Vélez-Málaga
+Municipio: Vélez-Málaga		Provincia: Málaga
+Cod_Postal: 29700		Teléfono: 951289959
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41000284		Denominación: Instituto de Educación Secundaria
+Nombre: Al-Guadaira		Dependencia: Público
+Domicilio: Avda. 28 de Febrero  s/n		Localidad: Alcalá de Guadaíra
+Municipio: Alcalá de Guadaíra		Provincia: Sevilla
+Cod_Postal: 41500		Teléfono: 955622641
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41000272		Denominación: Instituto de Educación Secundaria
+Nombre: Cristóbal de Monroy		Dependencia: Público
+Domicilio: Avda. de la Constitución  s/n		Localidad: Alcalá de Guadaíra
+Municipio: Alcalá de Guadaíra		Provincia: Sevilla
+Cod_Postal: 41500		Teléfono: 954100911
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41011014		Denominación: Instituto de Educación Secundaria
+Nombre: Profesor Tierno Galván		Dependencia: Público
+Domicilio: C/ Reyes Católicos  s/n		Localidad: Alcalá de Guadaíra
+Municipio: Alcalá de Guadaíra		Provincia: Sevilla
+Cod_Postal: 41500		Teléfono: 955622100
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41011002		Denominación: Instituto de Educación Secundaria
+Nombre: Ilipa Magna		Dependencia: Público
+Domicilio: Avda. de Andalucía  s/n		Localidad: Alcalá del Río
+Municipio: Alcalá del Río		Provincia: Sevilla
+Cod_Postal: 41200		Teléfono: 955623330
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41000557		Denominación: Instituto de Educación Secundaria
+Nombre: Al-Ándalus		Dependencia: Público
+Domicilio: C/ Dalia  s/n		Localidad: Arahal
+Municipio: Arahal		Provincia: Sevilla
+Cod_Postal: 41600		Teléfono: 955967943
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41000569		Denominación: Instituto de Educación Secundaria
+Nombre: La Campiña		Dependencia: Público
+Domicilio: Ctra. Sevilla-Málaga  Km 43		Localidad: Arahal
+Municipio: Arahal		Provincia: Sevilla
+Cod_Postal: 41600		Teléfono: 955967850
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41700853		Denominación: Instituto de Educación Secundaria
+Nombre: Jacarandá		Dependencia: Público
+Domicilio: C/ Diamantino García  s/n		Localidad: Brenes
+Municipio: Brenes		Provincia: Sevilla
+Cod_Postal: 41310		Teléfono: 955622585
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41009573		Denominación: Instituto de Educación Secundaria
+Nombre: Camas		Dependencia: Público
+Domicilio: Otros Autovía Sevilla-Gijón  3		Localidad: Camas
+Municipio: Camas		Provincia: Sevilla
+Cod_Postal: 41900		Teléfono: 955622545
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41000880		Denominación: Instituto de Educación Secundaria
+Nombre: Tartessos		Dependencia: Público
+Domicilio: Bda. Hiconsa  s/n		Localidad: Camas
+Municipio: Camas		Provincia: Sevilla
+Cod_Postal: 41900		Teléfono: 955623193
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41701158		Denominación: Instituto de Educación Secundaria
+Nombre: Cantillana		Dependencia: Público
+Domicilio: Bda. Pintor López Cabrera  s/n		Localidad: Cantillana
+Municipio: Cantillana		Provincia: Sevilla
+Cod_Postal: 41320		Teléfono: 600141429
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41009585		Denominación: Instituto de Educación Secundaria
+Nombre: Arrabal		Dependencia: Público
+Domicilio: C/ Bonifacio IV  s/n		Localidad: Carmona
+Municipio: Carmona		Provincia: Sevilla
+Cod_Postal: 41410		Teléfono: 955649930
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41011026		Denominación: Instituto de Educación Secundaria
+Nombre: Alixar		Dependencia: Público
+Domicilio: Avda. de la Unidad  s/n		Localidad: Castilleja de la Cuesta
+Municipio: Castilleja de la Cuesta		Provincia: Sevilla
+Cod_Postal: 41950		Teléfono: 955622566
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41700865		Denominación: Instituto de Educación Secundaria
+Nombre: El Carmen		Dependencia: Público
+Domicilio: C/ Santa Clara  3		Localidad: Cazalla de la Sierra
+Municipio: Cazalla de la Sierra		Provincia: Sevilla
+Cod_Postal: 41370		Teléfono: 955889567
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41001471		Denominación: Instituto de Educación Secundaria
+Nombre: Caura		Dependencia: Público
+Domicilio: Cerro De San Juan  s/n		Localidad: Coria del Río
+Municipio: Coria del Río		Provincia: Sevilla
+Cod_Postal: 41100		Teléfono: 955623228
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41001461		Denominación: Instituto de Educación Secundaria
+Nombre: Rodrigo Caro		Dependencia: Público
+Domicilio: C/ Cantalobos  s/n		Localidad: Coria del Río
+Municipio: Coria del Río		Provincia: Sevilla
+Cod_Postal: 41100		Teléfono: 955622105
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41011038		Denominación: Instituto de Educación Secundaria
+Nombre: Gonzalo Nazareno		Dependencia: Público
+Domicilio: C/ Las Botijas  10		Localidad: Dos Hermanas
+Municipio: Dos Hermanas		Provincia: Sevilla
+Cod_Postal: 41702		Teléfono: 955839911
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41700181		Denominación: Instituto de Educación Secundaria
+Nombre: Hermanos Machado		Dependencia: Público
+Domicilio: Avda. Vía Flaminia  s/n		Localidad: Dos Hermanas
+Municipio: Dos Hermanas		Provincia: Sevilla
+Cod_Postal: 41089		Teléfono: 955622418
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41700361		Denominación: Instituto de Educación Secundaria
+Nombre: Torre de los Herberos		Dependencia: Público
+Domicilio: Avda. de Andalucía  s/n		Localidad: Dos Hermanas
+Municipio: Dos Hermanas		Provincia: Sevilla
+Cod_Postal: 41700		Teléfono: 955839737
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41700877		Denominación: Instituto de Educación Secundaria
+Nombre: Vistazul		Dependencia: Público
+Domicilio: C/ Gabriel García Márquez  s/n. Apdo. correos 460		Localidad: Dos Hermanas
+Municipio: Dos Hermanas		Provincia: Sevilla
+Cod_Postal: 41700		Teléfono: 955839711
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41001941		Denominación: Instituto de Educación Secundaria
+Nombre: Luis Vélez de Guevara		Dependencia: Público
+Domicilio: C/ Tomás Beviá  1		Localidad: Écija
+Municipio: Écija		Provincia: Sevilla
+Cod_Postal: 41400		Teléfono: 955879918
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41001938		Denominación: Instituto de Educación Secundaria
+Nombre: San Fulgencio		Dependencia: Público
+Domicilio: Avda. de Andalucía  8		Localidad: Écija
+Municipio: Écija		Provincia: Sevilla
+Cod_Postal: 41400		Teléfono: 955879909
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41701079		Denominación: Instituto de Educación Secundaria
+Nombre: Flavio Irnitano		Dependencia: Público
+Domicilio: C/ Fray Antonio Martín Povea  s/n		Localidad: El Saucejo
+Municipio: El Saucejo		Provincia: Sevilla
+Cod_Postal: 41650		Teléfono: 954822972
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41008970		Denominación: Instituto de Educación Secundaria
+Nombre: Aguilar y Cano		Dependencia: Público
+Domicilio: C/ Camino del Cahiz  36		Localidad: Estepa
+Municipio: Estepa		Provincia: Sevilla
+Cod_Postal: 41560		Teléfono: 954822926
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41002013		Denominación: Instituto de Educación Secundaria
+Nombre: Ostippo		Dependencia: Público
+Domicilio: Ctra. de Becerrero  3		Localidad: Estepa
+Municipio: Estepa		Provincia: Sevilla
+Cod_Postal: 41560		Teléfono: 600142317
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41701286		Denominación: Instituto de Educación Secundaria
+Nombre: El Majuelo		Dependencia: Público
+Domicilio: C/ Enrique Granados  43		Localidad: Gines
+Municipio: Gines		Provincia: Sevilla
+Cod_Postal: 41960		Teléfono: 955622592
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41700348		Denominación: Instituto de Educación Secundaria
+Nombre: Alcaria		Dependencia: Público
+Domicilio: Avda. Pozo Concejo  s/n		Localidad: La Puebla del Río
+Municipio: La Puebla del Río		Provincia: Sevilla
+Cod_Postal: 41130		Teléfono: 955622940
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41701377		Denominación: Instituto de Educación Secundaria
+Nombre: Antonio de Ulloa		Dependencia: Público
+Domicilio: Avda. de la Ermita  s/n		Localidad: La Rinconada
+Municipio: La Rinconada		Provincia: Sevilla
+Cod_Postal: 41309		Teléfono: 955622611
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41700889		Denominación: Instituto de Educación Secundaria
+Nombre: Delgado Brackembury		Dependencia: Público
+Domicilio: Avda. Jesús Nazareno  s/n		Localidad: Las Cabezas de San Juan
+Municipio: Las Cabezas de San Juan		Provincia: Sevilla
+Cod_Postal: 41730		Teléfono: 671538212
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41009822		Denominación: Instituto de Educación Secundaria
+Nombre: Bajo Guadalquivir		Dependencia: Público
+Domicilio: Avda. Doctor José Viel  3		Localidad: Lebrija
+Municipio: Lebrija		Provincia: Sevilla
+Cod_Postal: 41740		Teléfono: 955839730
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41002451		Denominación: Instituto de Educación Secundaria
+Nombre: Axati		Dependencia: Público
+Domicilio: C/ San Juan Bosco  s/n		Localidad: Lora del Río
+Municipio: Lora del Río		Provincia: Sevilla
+Cod_Postal: 41440		Teléfono: 638145
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41003182		Denominación: Instituto de Educación Secundaria
+Nombre: Al-Mudeyne		Dependencia: Público
+Domicilio: C/ María Auxiliadora  2		Localidad: Los Palacios y Villafranca
+Municipio: Los Palacios y Villafranca		Provincia: Sevilla
+Cod_Postal: 41720		Teléfono: 955839560
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41700351		Denominación: Instituto de Educación Secundaria
+Nombre: Atenea		Dependencia: Público
+Domicilio: C/ Ítaca  2		Localidad: Mairena del Aljarafe
+Municipio: Mairena del Aljarafe		Provincia: Sevilla
+Cod_Postal: 41927		Teléfono: 955622578
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41700099		Denominación: Instituto de Educación Secundaria
+Nombre: Juan de Mairena		Dependencia: Público
+Domicilio: Avda. de las Américas  s/n		Localidad: Mairena del Aljarafe
+Municipio: Mairena del Aljarafe		Provincia: Sevilla
+Cod_Postal: 41927		Teléfono: 955623305
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41008507		Denominación: Instituto de Educación Secundaria
+Nombre: López de Arenas		Dependencia: Público
+Domicilio: C/ Sevilla  s/n		Localidad: Marchena
+Municipio: Marchena		Provincia: Sevilla
+Cod_Postal: 41620		Teléfono: 955967944
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41002955		Denominación: Instituto de Educación Secundaria
+Nombre: Fray Bartolomé de las Casas		Dependencia: Público
+Domicilio: Plaza de la Alameda  s/n		Localidad: Morón de la Frontera
+Municipio: Morón de la Frontera		Provincia: Sevilla
+Cod_Postal: 41530		Teléfono: 955859519
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41003066		Denominación: Instituto de Educación Secundaria
+Nombre: Francisco Rodríguez Marín		Dependencia: Público
+Domicilio: Paseo San Arcadio  s/n		Localidad: Osuna
+Municipio: Osuna		Provincia: Sevilla
+Cod_Postal: 41640		Teléfono: 954822717
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41009123		Denominación: Instituto de Educación Secundaria
+Nombre: Sierra Sur		Dependencia: Público
+Domicilio: C/ San José de Calasanz  s/n		Localidad: Osuna
+Municipio: Osuna		Provincia: Sevilla
+Cod_Postal: 41640		Teléfono: 954822856
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41701766		Denominación: Instituto de Educación Secundaria
+Nombre: Carmen Laffón		Dependencia: Público
+Domicilio: C/ Alcalde Pepe Iglesias  s/n		Localidad: San José de la Rinconada
+Municipio: La Rinconada		Provincia: Sevilla
+Cod_Postal: 41300		Teléfono: 955623388
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41003741		Denominación: Instituto de Educación Secundaria
+Nombre: Miguel de Mañara		Dependencia: Público
+Domicilio: C/ Cultura  s/n. (Aptdo. de correos 103)		Localidad: San José de la Rinconada
+Municipio: La Rinconada		Provincia: Sevilla
+Cod_Postal: 41300		Teléfono: 955622336
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41003765		Denominación: Instituto de Educación Secundaria
+Nombre: San José de la Rinconada		Dependencia: Público
+Domicilio: C/ Cultura  43		Localidad: San José de la Rinconada
+Municipio: La Rinconada		Provincia: Sevilla
+Cod_Postal: 41300		Teléfono: 955622342
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41700828		Denominación: Instituto de Educación Secundaria
+Nombre: Severo Ochoa		Dependencia: Público
+Domicilio: C/ Severo Ochoa  s/n		Localidad: San Juan de Aznalfarache
+Municipio: San Juan de Aznalfarache		Provincia: Sevilla
+Cod_Postal: 41920		Teléfono: 955624548
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41701778		Denominación: Instituto de Educación Secundaria
+Nombre: Lucus Solis		Dependencia: Público
+Domicilio: C/ Juan Antonio Santero  2		Localidad: Sanlúcar la Mayor
+Municipio: Sanlúcar la Mayor		Provincia: Sevilla
+Cod_Postal: 41800		Teléfono: 955622968
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41007114		Denominación: Centro de Convenio
+Nombre: Híspalis		Dependencia: Público
+Domicilio: C/ Alcalde Manuel del Valle  s/n		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41008		Teléfono: 954551832
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41009858		Denominación: Instituto de Educación Secundaria
+Nombre: Albert Einstein		Dependencia: Público
+Domicilio: C/ Salineros  s/n		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41008		Teléfono: 955623746
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41700427		Denominación: Instituto de Educación Secundaria
+Nombre: Azahar		Dependencia: Público
+Domicilio: Avda. Alcalde Manuel del Valle  69		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41008		Teléfono: 955622818
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41009871		Denominación: Instituto de Educación Secundaria
+Nombre: Beatriz de Suabia		Dependencia: Público
+Domicilio: C/ Beatriz de Suabia  s/n		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41005		Teléfono: 955623760
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41700415		Denominación: Instituto de Educación Secundaria
+Nombre: Ciudad Jardín		Dependencia: Público
+Domicilio: C/ Canal  s/n		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41005		Teléfono: 955622222
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41011041		Denominación: Instituto de Educación Secundaria
+Nombre: Federico Mayor Zaragoza		Dependencia: Público
+Domicilio: C/ Camino del Silo  4		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41012		Teléfono: 955623795
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41006912		Denominación: Instituto de Educación Secundaria
+Nombre: Gustavo Adolfo Bécquer		Dependencia: Público
+Domicilio: C/ López de Gomara  s/n		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41010		Teléfono: 955622825
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41700403		Denominación: Instituto de Educación Secundaria
+Nombre: Isbilya		Dependencia: Público
+Domicilio: C/ Esperanza de la Trinidad  7		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41003		Teléfono: 955623851
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41010541		Denominación: Instituto de Educación Secundaria
+Nombre: Joaquín Turina		Dependencia: Público
+Domicilio: Avda. Kansas City  s/n		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41007		Teléfono: 955623775
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41700117		Denominación: Instituto de Educación Secundaria
+Nombre: Llanes		Dependencia: Público
+Domicilio: C/ Escultor Francisco Buiza  s/n		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41008		Teléfono: 671534960
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41006948		Denominación: Instituto de Educación Secundaria
+Nombre: Martínez Montañés		Dependencia: Público
+Domicilio: C/ Fernández de Ribera  s/n		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41005		Teléfono: 955623877
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41011117		Denominación: Instituto de Educación Secundaria
+Nombre: Miguel de Cervantes		Dependencia: Público
+Domicilio: C/ Manzana  s/n		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41009		Teléfono: 955623806
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41011129		Denominación: Instituto de Educación Secundaria
+Nombre: Pablo Picasso		Dependencia: Público
+Domicilio: Avda. Ontur  s/n		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41019		Teléfono: 955624555
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41007451		Denominación: Instituto de Educación Secundaria
+Nombre: Pino Montano		Dependencia: Público
+Domicilio: Otros Núclo Residencial  Las Almenas  19		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41015		Teléfono: 955623886
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41009056		Denominación: Instituto de Educación Secundaria
+Nombre: Polígono Sur		Dependencia: Público
+Domicilio: C/ Esclava del Señor  2		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41013		Teléfono: 955622844
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41700178		Denominación: Instituto de Educación Secundaria
+Nombre: Punta del Verde		Dependencia: Público
+Domicilio: C/ Barrionuevo  4		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41012		Teléfono: 955623824
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41701109		Denominación: Instituto de Educación Secundaria
+Nombre: Ramón del Valle Inclán		Dependencia: Público
+Domicilio: C/ Doctor Palomares García  2		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41020		Teléfono: 955622848
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41010757		Denominación: Instituto de Educación Secundaria
+Nombre: San Jerónimo		Dependencia: Público
+Domicilio: C/ Corvina  17		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41015		Teléfono: 955623781
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41008532		Denominación: Instituto de Educación Secundaria
+Nombre: San Pablo		Dependencia: Público
+Domicilio: Avda. Éfeso  s/n		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41007		Teléfono: 955623431
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41700373		Denominación: Instituto de Educación Secundaria
+Nombre: Santa Aurelia		Dependencia: Público
+Domicilio: C/ Amor  s/n		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41006		Teléfono: 955623837
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41009883		Denominación: Instituto de Educación Secundaria
+Nombre: Torreblanca		Dependencia: Público
+Domicilio: C/ Torregrosa  85		Localidad: Sevilla
+Municipio: Sevilla		Provincia: Sevilla
+Cod_Postal: 41016		Teléfono: 955623767
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41701183		Denominación: Instituto de Educación Secundaria
+Nombre: Néstor Almendros		Dependencia: Público
+Domicilio: C/ Néstor Almendros  s/n		Localidad: Tomares
+Municipio: Tomares		Provincia: Sevilla
+Cod_Postal: 41940		Teléfono: 955622151
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41700154		Denominación: Instituto de Educación Secundaria
+Nombre: Ponce de León		Dependencia: Público
+Domicilio: C/ Constelación Pavo Real  s/n		Localidad: Utrera
+Municipio: Utrera		Provincia: Sevilla
+Cod_Postal: 41710		Teléfono: 955838924
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
+Codigo: 41007898		Denominación: Instituto de Educación Secundaria
+Nombre: Ruiz Gijón		Dependencia: Público
+Domicilio: Paseo de Consolación  1		Localidad: Utrera
+Municipio: Utrera		Provincia: Sevilla
+Cod_Postal: 41710		Teléfono: 955839573
+Enseñanzas: SEC-BAC-CFGM-CFGS
+
+
+
+
+
+Codigo: 41007904		Denominación: Instituto de Educación Secundaria
+Nombre: Virgen de Consolación		Dependencia: Público
+Domicilio: Paseo de Consolación  s/n		Localidad: Utrera
+Municipio: Utrera		Provincia: Sevilla
+Cod_Postal: 41710		Teléfono: 955839595
+Enseñanzas: SEC-BAC-CFGM-EE-CFGS
+
+
+
+
+
