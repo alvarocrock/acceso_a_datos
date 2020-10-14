@@ -13,6 +13,11 @@ public class Conexion {
 	    private static final String USUARIO = "usuario";
 	    private static final String CLAVE = "usuario";
 	   
+	    
+	    /**
+	     * comportamiento que devuelve una conexion de bbdd 
+	     * @return
+	     */
 	    public static java.sql.Connection conectar() {
 	    	java.sql.Connection conexion = null;
 
@@ -34,6 +39,10 @@ public class Conexion {
 	        return conexion;
 	    }
 	    
+	    /**
+	     * comportamineto que realiza una consulta es necesario pasarle nombre de la tabla
+	     * @param nombretabla
+	     */
 	    public static void consulta(String nombretabla) {
 	    	Conexion conexion = new Conexion();
 	        java.sql.Connection cn = null;
@@ -77,6 +86,11 @@ public class Conexion {
 	        
 	    }
 	    	
+	    /**
+	     * proceso que escribe un fichero
+	     * @param linea
+	     * @param nombretabla
+	     */
 	    public static void escribirfichero(String linea, String nombretabla) {
 	    	FileWriter fichero = null;
 	        PrintWriter pw = null;
@@ -104,6 +118,10 @@ public class Conexion {
 	        
 	    }
 	    
+	    /**
+	     * lanzador del programa llama c consulta dandole una valriable que sera el nombre de la tabla
+	     * @param args
+	     */
 	    public static void main(String[] args) {
 	    	//conectar();
 	    	consulta("usuarios");
