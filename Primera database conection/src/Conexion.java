@@ -8,7 +8,7 @@ import com.mysql.jdbc.Statement;
 import com.sun.jdi.connect.spi.Connection;
 
 public class Conexion {
-	 private static final String CONTROLADOR = "com.mysql.jdbc.Driver";
+	 	private static final String CONTROLADOR = "com.mysql.jdbc.Driver";
 	    private static final String URL = "jdbc:mysql://localhost:3306/puebabbdd?allowPublicKeyRetrieval=true&useSSL=false";
 	    private static final String USUARIO = "usuario";
 	    private static final String CLAVE = "usuario";
