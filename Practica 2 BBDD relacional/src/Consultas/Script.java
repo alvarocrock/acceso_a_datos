@@ -5,6 +5,7 @@ import java.sql.SQLException;
 
 import com.mysql.jdbc.Statement;
 
+import Constantes.ConstantesDeUsuario;
 import Constantes.ConsultasSQL;
 
 import java.sql.Connection;
@@ -14,12 +15,9 @@ import java.sql.Connection;
  * @author alvar
  *
  */
-public class Script extends ConsultasSQL{
+public class Script extends ConsultasSQL implements ConstantesDeUsuario{
 	//estado
-	private final String CONTROLADOR = "com.mysql.jdbc.Driver";
-    private final String URL = "jdbc:mysql://localhost:3306/practica2_a_datos_java?allowPublicKeyRetrieval=true&useSSL=false";
-    private final String USUARIO = "usuario";
-    private final String CLAVE = "usuario";
+	//esta en constantes
     
     
     public Script() {
@@ -55,45 +53,45 @@ public class Script extends ConsultasSQL{
 	/**
 	 * comportamiento que llama a crear las tablas y sis relaciones
 	 */
-	public void CrearTablas() {
+	public void creartablas() {
 		
 		//crear tabla usuario
-		CrearTabla("Usuario",TABLAUSUARIO);
+		crear_tabla("Usuario",TABLAUSUARIO);
 		//crear tabla asignatura
-		CrearTabla("Asignatura",TABLAASIGNATURA);
+		crear_tabla("Asignatura",TABLAASIGNATURA);
 		//Crear tabla profesor
-		CrearTabla("Profesor",TABLAPROFESOR);
+		crear_tabla("Profesor",TABLAPROFESOR);
 		//crear tabla recibe
-		CrearTabla("Recibe",TABLARECIBE);
+		crear_tabla("Recibe",TABLARECIBE);
 		//tabla epleados
-		CrearTabla("Empleado",TABLAEMPLEADO);
+		crear_tabla("Empleado",TABLAEMPLEADO);
 		//taabla localidad
-		CrearTabla("Localidad",TABLALOCALIDAD);
+		crear_tabla("Localidad",TABLALOCALIDAD);
 		//tabla provincia
-		CrearTabla("Provincia",TABLAPROVINCIA);
+		crear_tabla("Provincia",TABLAPROVINCIA);
 		//tabla región
-		CrearTabla("Region",TABLAREGION);
+		crear_tabla("Region",TABLAREGION);
 		//me falta crear la relaciones entre tablas
-		CrearRelaciones();
+		crear_relaciones();
 	}
 	
 	/**
 	 * comportamiento para crear relaciones
 	 */
-	public void CrearRelaciones() {
+	public void crear_relaciones() {
 		//creamos las relaciones
 		//relacion Nº matricula
-		CrearRelacion(FK_NMATRRICULA);
+		crear_relacion(FK_NMATRRICULA);
 		//relación codigo asignatura
-		CrearRelacion(FK_CODASING);
+		crear_relacion(FK_CODASING);
 		//relación cod prof
-		CrearRelacion(FK_IDPROF);
+		crear_relacion(FK_IDPROF);
 		//relacion cod localidad
-		CrearRelacion(FK_CODLOCALIDAD);
+		crear_relacion(FK_CODLOCALIDAD);
 		//relacion codprovincia
-		CrearRelacion(FK_CODPROVINCIA);
+		crear_relacion(FK_CODPROVINCIA);
 		//relacion codregion
-		CrearRelacion(FK_CODREGION);
+		crear_relacion(FK_CODREGION);
 	}
 	
 	
@@ -102,7 +100,7 @@ public class Script extends ConsultasSQL{
 	 * @param nombretabla
 	 * @param miconsulta
 	 */
-	protected void CrearTabla(String nombretabla,String miconsulta) {
+	protected void crear_tabla(String nombretabla,String miconsulta) {
 		Connection conn = null;
 	    Statement stmt = null;
 
@@ -114,9 +112,11 @@ public class Script extends ConsultasSQL{
 	      stmt.executeUpdate(miconsulta);
 
 	      System.out.println("Tabla "+ nombretabla+ " creada");
+	      
 
 	    } catch (SQLException e) {
 	      e.printStackTrace();
+	    	
 	    } finally {
 	      try {
 	        // Close connection
@@ -135,7 +135,7 @@ public class Script extends ConsultasSQL{
 	 * Comportamiento que crea relaciones entre tablas
 	 * @param miconsulta
 	 */
-	protected void CrearRelacion(String miconsulta) {
+	protected void crear_relacion(String miconsulta) {
 		Connection conn = null;
 	    Statement stmt = null;
 
