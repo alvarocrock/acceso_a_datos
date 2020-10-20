@@ -165,4 +165,39 @@ public class Script extends ConsultasSQL implements ConstantesDeUsuario{
 	    }
 	}
 	
+	/**
+	 * agrega datos a tablas pasandole una consulta
+	 * @param tabla
+	 * @param miconsulta
+	 */
+	protected void agregar_datos(String tabla,String miconsulta) {
+		Connection conn = null;
+	    Statement stmt = null;
+
+	    try {
+
+	      conn = conectar();
+	      stmt = (Statement) conn.createStatement();
+
+	      stmt.executeUpdate(miconsulta);
+
+	      System.out.println("datos añadidos a "+tabla);
+
+	    } catch (SQLException e) {
+	      e.printStackTrace();
+	    } finally {
+	      try {
+	        // Close connection
+	        if (stmt != null) {
+	          stmt.close();
+	        }
+	        if (conn != null) {
+	          conn.close();
+	        }
+	      } catch (Exception e) {
+	        e.printStackTrace();
+	      }
+	    }
+	}
+	
 }
