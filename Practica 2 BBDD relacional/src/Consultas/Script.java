@@ -1,6 +1,7 @@
 package Consultas;
 
 import java.sql.DriverManager;
+import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import com.mysql.jdbc.Statement;
@@ -35,7 +36,7 @@ public class Script extends ConsultasSQL implements ConstantesDeUsuario{
         try {
             Class.forName(CONTROLADOR);
             conexion = DriverManager.getConnection(URL, USUARIO, CLAVE);
-            System.out.println("Conexión OK");
+            //System.out.println("Conexión OK");
 
         } catch (ClassNotFoundException e) {
             System.out.println("Error al cargar el controlador");
@@ -170,7 +171,78 @@ public class Script extends ConsultasSQL implements ConstantesDeUsuario{
 	 * @param tabla
 	 * @param miconsulta
 	 */
-	protected void agregar_datos(String tabla,String miconsulta) {
+	public void modificar_datos(String campo,String tabla,String nuevovalor,String campoprimario,String valorpk) {
+		Connection conne = null;
+	    Statement stmte = null;
+
+	    try {
+
+	      conne = conectar();
+	      stmte = (Statement) conne.createStatement();
+	      String consulta = "UPDATE "+tabla+" SET "+campo+"="+"'"+nuevovalor+"'"+" where "+campoprimario+" = "+valorpk+";";
+	      
+	      stmte.executeUpdate(consulta);
+
+	    } catch (SQLException e) {
+	      e.printStackTrace();
+	    } finally {
+	      try {
+	        // Close connection
+	        if (stmte != null) {
+	          stmte.close();
+	        }
+	        if (conne != null) {
+	          conne.close();
+	        }
+	      } catch (Exception e) {
+	        e.printStackTrace();
+	      }
+	    }
+	}
+	
+	/**
+	 * proceso para añadir a profesores un nuevo campo pasandole parametros
+	 * @param ID
+	 * @param NIF
+	 * @param nombre
+	 * @param especialidad
+	 * @param Telefono
+	 */
+	public void añadir_datos_prof(String ID,String NIF,String nombre,String especialidad,String Telefono) {
+		Connection conne = null;
+	    Statement stmte = null;
+
+	    try {
+
+	      conne = conectar();
+	      stmte = (Statement) conne.createStatement();
+	      //INSERT INTO usuarios (nombre, apellidos) VALUES ('Juan','Garcia Pérez');
+	      String consulta = "INSERT INTO profesor (IdProfesor,NIF_P,Nombre,Especialidad,Telefono) VALUES('"+ID+"','"+NIF+"','"+nombre+"','"+especialidad+"','"+Telefono+"');" ;
+	      
+	      stmte.executeUpdate(consulta);
+
+	    } catch (SQLException e) {
+	      e.printStackTrace();
+	    } finally {
+	      try {
+	        // Close connection
+	        if (stmte != null) {
+	          stmte.close();
+	        }
+	        if (conne != null) {
+	          conne.close();
+	        }
+	      } catch (Exception e) {
+	        e.printStackTrace();
+	      }
+	    }
+	}
+	
+	/**
+	 * proceso para eliminar una tabla pasandole el nombre d la tabla a borrar
+	 * @param tabla
+	 */
+	public void eliminar_tabla(String tabla) {
 		Connection conn = null;
 	    Statement stmt = null;
 
@@ -178,10 +250,11 @@ public class Script extends ConsultasSQL implements ConstantesDeUsuario{
 
 	      conn = conectar();
 	      stmt = (Statement) conn.createStatement();
+	      String consulta="DROP TABLE IF EXISTS "+tabla+";";
 
-	      stmt.executeUpdate(miconsulta);
+	      stmt.executeUpdate(consulta);
 
-	      System.out.println("datos añadidos a "+tabla);
+	      System.out.println("tabla "+tabla+" eliminada");
 
 	    } catch (SQLException e) {
 	      e.printStackTrace();
@@ -199,5 +272,24 @@ public class Script extends ConsultasSQL implements ConstantesDeUsuario{
 	      }
 	    }
 	}
+	
+	/**
+	 * comportamiento que borra la bbdd
+	 */
+	public void eliminarbbdd() {
+		eliminar_tabla("recibe");
+		eliminar_tabla("asignatura");
+		eliminar_tabla("profesor");
+		eliminar_tabla("alumno");
+		
+		eliminar_tabla("empleado");//ok
+		eliminar_tabla("localidad");
+		eliminar_tabla("provincia");
+		eliminar_tabla("region");
+		
+		
+	}
+	
+    
 	
 }
