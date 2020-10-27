@@ -166,10 +166,10 @@ public class VistaDatosVenta{
 		micontro.crearBBDD();
 		
 		
-		actuaizar();
+		actualizar();
 		micontro.consultaprofe("Profesor");
 		miprofe=micontro.siguiente();
-		actuaizar();
+		actualizar();
 		
 		
 	}
@@ -198,7 +198,7 @@ public class VistaDatosVenta{
 				BTN_aceptar.setVisible(false);
 				BTN_Cancelar.setVisible(false);
 				mostrarbotones();
-				actuaizar();
+				actualizar();
 	
 				micontro.cerrarconexion();
 				micontro.consultaprofe("profesor");
@@ -219,7 +219,7 @@ public class VistaDatosVenta{
 				BTN_Cancelar.setVisible(false);
 				//btnModificar.setVisible(true);
 				mostrarbotones();
-				actuaizar();
+				actualizar();
 			}
 		});
 		BTN_Cancelar.setFont(new Font("Tahoma", Font.PLAIN, 15));
@@ -251,7 +251,7 @@ public class VistaDatosVenta{
 			@Override
 			public void mouseClicked(MouseEvent e) {
 				miprofe=micontro.siguiente();
-				actuaizar();
+				actualizar();
 				JLB_sistema.setText("");
 			}
 		});
@@ -265,14 +265,14 @@ public class VistaDatosVenta{
 			@Override
 			public void mouseClicked(MouseEvent e) {
 				miprofe=micontro.primero();
-				actuaizar();
+				actualizar();
 				JLB_sistema.setText("");
 			}
 		});
 		JBT_primero.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
 				micontro.primero();
-				actuaizar();
+				actualizar();
 			}
 		});
 		JBT_primero.setFont(new Font("Tahoma", Font.PLAIN, 15));
@@ -286,7 +286,7 @@ public class VistaDatosVenta{
 			@Override
 			public void mouseClicked(MouseEvent e) {
 				miprofe=micontro.ultimo();
-				actuaizar();
+				actualizar();
 				JLB_sistema.setText("");
 			}
 		});
@@ -322,7 +322,7 @@ public class VistaDatosVenta{
 			@Override
 			public void mouseClicked(MouseEvent e) {
 				miprofe=micontro.anterior();
-				actuaizar();
+				actualizar();
 				JLB_sistema.setText("");
 			}
 		});
@@ -445,7 +445,7 @@ public class VistaDatosVenta{
 	/**
 	 * comportamiento que vuelca los datos del objeto profesor en los JTF
 	 */
-	public void actuaizar() {
+	public void actualizar() {
 		
 		
 		if (miprofe!=null) {
