@@ -358,7 +358,7 @@ public class VistaDatosVenta{
 				JBT_noo.setVisible(false);
 				reset();
 				micontro.cerrarconexion();
-				JLB_sistema.setText("Has traicionado la fe del comunismo, borrando base datos... borrado completado");
+				JLB_sistema.setText("Has traicionado la fe del comunismo, borrando base datos... borrado completado, a reiniciar");
 			}
 		});
 		JBT_SIII.setBackground(Color.GREEN);
