@@ -356,6 +356,8 @@ public class VistaDatosVenta{
 				mostrarbotones();
 				JBT_SIII.setVisible(false);
 				JBT_noo.setVisible(false);
+				reset();
+				micontro.cerrarconexion();
 				JLB_sistema.setText("Has traicionado la fe del comunismo, borrando base datos... borrado completado");
 			}
 		});
