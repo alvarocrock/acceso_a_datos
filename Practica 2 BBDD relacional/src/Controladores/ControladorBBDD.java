@@ -81,9 +81,9 @@ public class ControladorBBDD {
 	 */
 	public Profesor primero() {
 		try {
-			rs.first();
-			
+			if(rs.first()) {
 			crear_profesor();
+			}
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			//e.printStackTrace();
@@ -101,8 +101,9 @@ public class ControladorBBDD {
 	 */
 	public Profesor ultimo() {
 		try {
-			rs.last();
+			if (rs.last()) {
 			crear_profesor();
+			}
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			//e.printStackTrace();
