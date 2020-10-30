@@ -26,7 +26,7 @@ public class Script extends ConsultasSQL implements ConstantesDeUsuario{
 	}
 	
     /**
-     * comportamiento que crea la conexión con la bbdd
+     * comportamiento que crea la conexiï¿½n con la bbdd
      * @return
      */
 	public java.sql.Connection conectar() {
@@ -36,14 +36,14 @@ public class Script extends ConsultasSQL implements ConstantesDeUsuario{
         try {
             Class.forName(CONTROLADOR);
             conexion = DriverManager.getConnection(URL, USUARIO, CLAVE);
-            //System.out.println("Conexión OK");
+            //System.out.println("Conexiï¿½n OK");
 
         } catch (ClassNotFoundException e) {
             System.out.println("Error al cargar el controlador");
             e.printStackTrace();
 
         } catch (SQLException e) {
-            System.out.println("Error en la conexión");
+            System.out.println("Error en la conexiï¿½n");
             e.printStackTrace();
         }
         
@@ -70,7 +70,7 @@ public class Script extends ConsultasSQL implements ConstantesDeUsuario{
 		crear_tabla("Localidad",TABLALOCALIDAD);
 		//tabla provincia
 		crear_tabla("Provincia",TABLAPROVINCIA);
-		//tabla región
+		//tabla regiï¿½n
 		crear_tabla("Region",TABLAREGION);
 		//me falta crear la relaciones entre tablas
 		crear_relaciones();
@@ -81,11 +81,11 @@ public class Script extends ConsultasSQL implements ConstantesDeUsuario{
 	 */
 	public void crear_relaciones() {
 		//creamos las relaciones
-		//relacion Nº matricula
+		//relacion Nï¿½ matricula
 		crear_relacion(FK_NMATRRICULA);
-		//relación codigo asignatura
+		//relaciï¿½n codigo asignatura
 		crear_relacion(FK_CODASING);
-		//relación cod prof
+		//relaciï¿½n cod prof
 		crear_relacion(FK_IDPROF);
 		//relacion cod localidad
 		crear_relacion(FK_CODLOCALIDAD);
@@ -147,7 +147,7 @@ public class Script extends ConsultasSQL implements ConstantesDeUsuario{
 
 	      stmt.executeUpdate(miconsulta);
 
-	      System.out.println("relación creada");
+	      System.out.println("relaciï¿½n creada");
 
 	    } catch (SQLException e) {
 	      e.printStackTrace();
@@ -201,7 +201,7 @@ public class Script extends ConsultasSQL implements ConstantesDeUsuario{
 	}
 	
 	/**
-	 * proceso para añadir a profesores un nuevo campo pasandole parametros
+	 * proceso para aï¿½adir a profesores un nuevo campo pasandole parametros
 	 * @param ID
 	 * @param NIF
 	 * @param nombre
@@ -216,7 +216,7 @@ public class Script extends ConsultasSQL implements ConstantesDeUsuario{
 
 	      conne = conectar();
 	      stmte = (Statement) conne.createStatement();
-	      //INSERT INTO usuarios (nombre, apellidos) VALUES ('Juan','Garcia Pérez');
+	      //INSERT INTO usuarios (nombre, apellidos) VALUES ('Juan','Garcia Pï¿½rez');
 	      String consulta = "INSERT INTO profesor (IdProfesor,NIF_P,Nombre,Especialidad,Telefono) VALUES('"+ID+"','"+NIF+"','"+nombre+"','"+especialidad+"','"+Telefono+"');" ;
 	      
 	      stmte.executeUpdate(consulta);
