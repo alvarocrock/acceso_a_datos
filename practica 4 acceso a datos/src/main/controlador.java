@@ -3,11 +3,13 @@ package main;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.Properties;
 
 import com.mysql.jdbc.PreparedStatement;
 import com.mysql.jdbc.Statement;
@@ -16,10 +18,18 @@ public class controlador {
 	
 	//static final nombreConstante = valor;
 	private static final String fichero= "fichero.txt";
-	ArrayList<String> lista;
-	
+	private ArrayList<String> lista;
+	private Properties p;
 	public controlador() {
 		lista= new ArrayList();
+		p=new Properties();
+		
+		try {
+			p.load(getClass().getResourceAsStream("properties.properties"));
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 	
 	/**
@@ -31,8 +41,8 @@ public class controlador {
 
         
         try {
-            Class.forName(contantes.CONTROLADOR);
-            conexion = DriverManager.getConnection(contantes.URL, contantes.USUARIO, contantes.CLAVE);
+            Class.forName(p.getProperty("CONTROLADOR").toString());
+            conexion = DriverManager.getConnection(p.getProperty("URL").toString(), p.getProperty("USUARIO").toString(), p.getProperty("CLAVE").toString());
             //System.out.println("Conexi�n OK");
 
         } catch (ClassNotFoundException e) {
@@ -45,8 +55,8 @@ public class controlador {
         }
         
         return conexion;
-    }
-	
+       
+	}
 	/**
 	 * compoprtamiento que crea las tablas de la bbddd
 	 */
