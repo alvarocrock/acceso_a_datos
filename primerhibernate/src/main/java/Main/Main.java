@@ -19,16 +19,18 @@ public class Main {
   
     	sesion.getTransaction().begin();
     	
-    	prueba clase= new prueba(1,"Juan");
+    	prueba clase= new prueba(1,"juan");
+    	prueba1A1 clase2= new prueba1A1("esto no es nada");
+    	clase.setPrueba(clase2);
+    	clase2.setPrueba(clase);
+    	
     	
     	//guardar alumno
     	sesion.save(clase);
     	
     	sesion.getTransaction().commit();
     	}catch(Exception e){
-    		
-    		sesion.close();
-        	sf.close();
+    		e.printStackTrace();
     	} finally {
 	    	sesion.close();
 	    	sf.close();
