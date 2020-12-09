@@ -16,22 +16,24 @@ public class prueba1A1 {
 	@Id
 	@GeneratedValue(generator = "foreigngen")
 	@GenericGenerator(strategy = "foreign", name="foreigngen", parameters = @Parameter(name = "property", value="prueba"))
-	int id;
 	@Column
-	String desc;
-	@OneToOne(mappedBy = "prueba")
+	int id;
+	
+	@Column
+	String descripcion;
+	@OneToOne(mappedBy = "prueba1")
 	prueba prueba;
 	
 	public prueba1A1(String desc) {
-		this.desc=desc;
+		this.descripcion=desc;
 	}
 
 	public String getDesc() {
-		return desc;
+		return descripcion;
 	}
 
 	public void setDesc(String desc) {
-		this.desc = desc;
+		this.descripcion = desc;
 	}
 
 	public prueba getPrueba() {

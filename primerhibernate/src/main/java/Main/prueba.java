@@ -15,19 +15,20 @@ import javax.persistence.Table;
 public class prueba {
 	
 	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	int id;
 	@Column
 	String nombre;
 	@OneToOne(cascade = CascadeType.ALL)
 	@PrimaryKeyJoinColumn
-	prueba1A1 prueba;
+	prueba1A1 prueba1;
 	
 	public prueba1A1 getPrueba() {
-		return prueba;
+		return prueba1;
 	}
 
 	public void setPrueba(prueba1A1 prueba) {
-		this.prueba = prueba;
+		this.prueba1 = prueba;
 	}
 
 	protected prueba() {

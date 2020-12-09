@@ -26,6 +26,7 @@ public class Main {
     	
     	
     	//guardar alumno
+    	//sesion.save(clase2);
     	sesion.save(clase);
     	
     	sesion.getTransaction().commit();
