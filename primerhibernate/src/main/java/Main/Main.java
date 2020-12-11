@@ -1,5 +1,9 @@
 package Main;
 
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Set;
+
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.MetadataSources;
@@ -19,15 +23,22 @@ public class Main {
   
     	sesion.getTransaction().begin();
     	
-    	prueba clase= new prueba(1,"juan");
-    	prueba1A1 clase2= new prueba1A1("esto no es nada");
-    	clase.setPrueba(clase2);
-    	clase2.setPrueba(clase);
+    	//prueba clase= new prueba(1,"juan");
+    	//prueba1A1 clase2= new prueba1A1("esto no es nada");
+    	//clase.setPrueba(clase2);
+    	//clase2.setPrueba(clase);
+    	profesor profesor=new profesor(7, "Sara", "Barrrera", "Salas");
+    	Set<alumno> alumnos=new HashSet();
+    	alumnos.add(new alumno(1,"pepe",profesor));
+    	alumnos.add(new alumno(2,"juan",profesor));
+    	alumnos.add(new alumno(3,"clara",profesor));
     	
+    	profesor.setAlumnos(alumnos);
     	
+    	sesion.save(profesor);
     	//guardar alumno
     	//sesion.save(clase2);
-    	sesion.save(clase);
+    	//sesion.save(clase);
     	
     	sesion.getTransaction().commit();
     	}catch(Exception e){

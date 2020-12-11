@@ -13,5 +13,7 @@
   <property name="hibernate.hbm2ddl.auto">create</property>
   <mapping class="Main.prueba"/>
   <mapping class="Main.prueba1A1"/>
+  <mapping class="Main.profesor"/>
+  <mapping class="Main.alumno"/>
  </session-factory>
 </hibernate-configuration>
