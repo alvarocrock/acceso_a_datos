@@ -2,7 +2,10 @@ package Main;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.math.BigDecimal;
+import java.math.BigInteger;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -11,6 +14,8 @@ import org.hibernate.SessionFactory;
 import org.hibernate.boot.MetadataSources;
 import org.hibernate.boot.registry.StandardServiceRegistry;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
+
+import Main.Tipos.TipoCelda;
 
 public class Main {
 	
@@ -27,52 +32,36 @@ public class Main {
   
     	sesion.getTransaction().begin();
     	
-    	//prueba clase= new prueba(1,"juan");
-    	//prueba1A1 clase2= new prueba1A1("esto no es nada");
-    	//clase.setPrueba(clase2);
-    	//clase2.setPrueba(clase);
-    	//profesor profesor=new profesor(7, "Sara", "Barrrera", "Salas");
-    	//Set<alumno> alumnos=new HashSet();
-    	//alumnos.add(new alumno(1,"pepe",profesor));
-    	//alumnos.add(new alumno(2,"juan",profesor));
-    	//alumnos.add(new alumno(3,"clara",profesor));
+    	byte array[]={(byte)0x45,(byte)0xF5,(byte)0x3A,(byte)0x67,(byte)0xFF};
+    	Date date=new Date();
     	
-    	//profesor.setAlumnos(alumnos);
-    	
-    	//sesion.save(profesor);
-    	//guardar alumno
-    	//sesion.save(clase2);
-    	//sesion.save(clase);
-    	
-    	BufferedReader lector = null;
-		String linea = null;
-		ArrayList<SUPERusuario> superusuarios = new ArrayList();
+    	Tipos tipo= new Tipos();
+    	tipo.setInte(1);
+    	  tipo.setLong1(12);
+    	  tipo.setShort1((short)13);
+    	  tipo.setFloat1(14.1F);
+    	  tipo.setDouble1(15.2);
+    	 tipo.setCharacter1('W');
+    	 tipo.setByte1((byte)16);
+    	 tipo.setBoolean1(true);
+    	 tipo.setYesno1(true);
+    	 tipo.setTruefalse1(true);
+    	 tipo.setStri("Hola mundo");
+    	 tipo.setDateDate(date);
+    	 tipo.setDateTime(date);
+    	 tipo.setDateTimestamp(date);
+    	 tipo.setTexto("texto muyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy largo");
+    	 tipo.setBinario(array);
+    	 tipo.setBigDecimal(new BigDecimal("0.3"));
+    	 tipo.setBigInteger(new BigInteger("5345345324532"));
+    	 tipo.setTipo(TipoCelda.Dos);
+    	 
+    	 sesion.save(tipo);
+    	 sesion.getTransaction().commit();
+    	 sesion.close();
 
-		// Lectura de fichero e inserciones en tabla
-		lector = new BufferedReader(new FileReader(RUTA_FICHERO));
-		while ((linea = lector.readLine()) != null) {
-			String[] campos = linea.split(",");
-			String apellidos = campos[0];
-			String nombre = campos[1];
-			String user = getUser(nombre, apellidos);
-
-			// Añadir superusuarios a la lista
-			superusuarios.add(new SUPERusuario(nombre, apellidos, user));
-		}
-		// Cerrar lector
-		lector.close();
-		
-		for (SUPERusuario superusuario : superusuarios) {
-			sesion.save(superusuario);
-		}
-
-		sesion.getTransaction().commit();
-    	
-    	}catch(Exception e){
+    	}catch(Exception e) {
     		e.printStackTrace();
-    	} finally {
-	    	sesion.close();
-	    	sf.close();
     	}
     	
     		

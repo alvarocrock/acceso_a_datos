@@ -16,5 +16,9 @@
   <mapping class="Main.profesor"/>
   <mapping class="Main.alumno"/>
   <mapping class="Main.SUPERusuario"/>
+  <mapping class="Main.Tipos"/>
+  
  </session-factory>
 </hibernate-configuration>
+
+
